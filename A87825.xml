@@ -1,0 +1,700 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A modest plea for private mens preaching. Or An answer to a booke intituled, Private men no pulpit men; composed by Master Giles Workman. Wherein the thing in controversie is briefly debated; the examination of private mens preaching examined; also certain accusations wip'd away and removed. / By John Knowles a preacher of the gospel, formerly in and neer Glocester, now belonging to the life-guard of his Excellency Sir Thomas Fairfax.</title>
+            <author>Knowles, John, fl. 1646-1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 104 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87825</idno>
+            <idno type="STC">Wing K730</idno>
+            <idno type="STC">Thomason E434_8</idno>
+            <idno type="STC">ESTC R206223</idno>
+            <idno type="EEBO-CITATION">99865397</idno>
+            <idno type="PROQUEST">99865397</idno>
+            <idno type="VID">117637</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87825)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117637)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E434[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A modest plea for private mens preaching. Or An answer to a booke intituled, Private men no pulpit men; composed by Master Giles Workman. Wherein the thing in controversie is briefly debated; the examination of private mens preaching examined; also certain accusations wip'd away and removed. / By John Knowles a preacher of the gospel, formerly in and neer Glocester, now belonging to the life-guard of his Excellency Sir Thomas Fairfax.</title>
+                  <author>Knowles, John, fl. 1646-1668.</author>
+               </titleStmt>
+               <extent>[4], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Workman, Giles, 1604 or 5-1665. --  Private men no pulpit men --  Early works to 1800.</term>
+               <term>Lay preaching --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117637:1"/>
+            <pb facs="tcp:117637:1" rendition="simple:additions"/>
+            <p>
+               <hi>A modeſt</hi> PLEA FOR PRIVATE MENS PREACHING.</p>
+            <p>OR <hi>AN ANSWER TO A BOOKE</hi> intituled, <hi>Private men no pulpit men;</hi> compoſed by Maſter <hi>GILES WORKMAN.</hi>
+            </p>
+            <p>Wherein The thing in controverſie is briefly debated; The examination of private mens preaching examined; alſo certain accuſations wip'd away and removed.</p>
+            <p>By <hi>JOHN KNOWLES</hi> A Preacher of the Goſpel, formerly in and neer <hi>Gloceſter,</hi> now belonging to the Life-Guard of his Excellency Sir <hi>THOMAS FAIRFAX.</hi>
+            </p>
+            <p>LONDON.
+Printed in the Yeare 1648.</p>
+         </div>
+         <div type="to_the_Christian_reader">
+            <pb facs="tcp:117637:2"/>
+            <pb facs="tcp:117637:2"/>
+            <head>The Preface to the Reader.</head>
+            <opener>
+               <salute>CHRISTIAN READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Here are two evils, too common amongſt Profeſſors, one is, the taking up of much for truth, which is in<g ref="char:EOLhyphen"/>deed not ſo; whence they accept darkneſſe for light, and imbrace <hi>nubem pro Junone,</hi> a cloud for <hi>Juno:</hi> The other is, the imbracing of many truthes, which they ſee not with their owne eyes to be ſo; whereby their faith proves fruthleſſe, whil'ſt this popiſh doctrine, to believe as the Church [the Clergie] believes, is a practicall tenent amongſt them. Wherefore I cannot but ſee a breaking forth of mercies towards us, by the breaking out of controverſies amongst us, that being a way to remove us from our falſe apprehenſions, and to ſettle us on true, upon good foundations.</p>
+            <p>Therefore expect (Reader) ſound reformation from our groſſe apprehenſions, and a ſweet union from our great diviſions. I can<g ref="char:EOLhyphen"/>not but acquaint thee (courteous Reader) with two leſſons, which God ſome-while ſince hath taught me.</p>
+            <p>The firſt is, To bring all things to the touch-ſtone and under ex<g ref="char:EOLhyphen"/>amination; wherefore thoſe things, which men call received truths, I have called into queſtion, and am reſolved neither to be<g ref="char:EOLhyphen"/>lieve nor practice any thing, till I enjoy a ſatisfactory reaſon, why I ſhould ſo either believe or practice. By which courſe I have beene gratiouſly led out of many imbraced errours, and (I hope) grati<g ref="char:EOLhyphen"/>ouſly led into many yet unreſolved ſcruples, for ſatisfastion where<g ref="char:EOLhyphen"/>in I wait on the God of diſcoveries,</p>
+            <p>Secondly, I have learned to receive truth by parcel-meale, in that
+<pb facs="tcp:117637:3"/>
+God is wont by degrees not by whole ſale to impart it.</p>
+            <p>As for the following diſcourſe, it was occaſioned from a deſire in me, to vindicate both the truth &amp; my ſelfe from a falſe accuſation, and it was long-ſince prepared for and ſent up towards the Preſſe; but providence by ſickneſſe hindering the Meſſenger, it returned back again to me, where it hath ever ſince remained in, the priſon of ſilence, and ſhould bave been for ever hindered from walking a<g ref="char:EOLhyphen"/>broad, had not importunity obtained it liberty to behold the Sun and looke the world in the face. That it's entertainment will be di<g ref="char:EOLhyphen"/>verſe I am not doubtfull. How I may be cenſured I am not carefull If God may have glory and his Church good, I have my deſire.</p>
+            <p>I ſhall not farther trouble thee in way of Preface, but only to in<g ref="char:EOLhyphen"/>treat thee ſeriouſly to conſider of the inſuing diſcourſe. What in it thou findeſt to be good, that's Gods. Give him the glory. What falls thou meet'ſt with, ſome may be mine; impute them to me: ſome may be the Printers; do him that favour, when thou find'ſt them to a<g ref="char:EOLhyphen"/>mend them; by which thou may'ſt oblige him unto thy ſervice, who is willing to be commanded by thee,</p>
+            <closer>
+               <signed>John Knowles.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117637:3"/>
+            <head>A Modeſt <hi>PLEA</hi> for private Mens PREACHING.</head>
+            <div n="1" type="part">
+               <head>
+                  <hi>The Firſt Part.</hi> Wherein the thing in controverſie is briefly ſtated and clearly explained, where<g ref="char:EOLhyphen"/>unto alſo poſitive arguments are annexed, and certain Interogatories an<g ref="char:EOLhyphen"/>ſwered.</head>
+               <p>
+                  <seg rend="decorInit">W</seg>Hen controverſies are rightly ſtated, they are in away to be ended.<note place="margin">Acts 19.</note> He that ſtrives about things not wiſely ſtated, beats the <hi>Ayer</hi> and ſights with his <hi>ſhadow,</hi> and ſo brings forth <hi>opas mane,</hi> a fruitleſſe labour. Too ma<g ref="char:EOLhyphen"/>ny of our zealous contenders are too like <hi>Demetrius</hi> his followers, making out-cries and uproares with<g ref="char:EOLhyphen"/>out reaſon and with not a little ignorance. Wherefore that I may not ſhoot my darts as at randome, and that there may for the build<g ref="char:EOLhyphen"/>ing be laid a good foundation, I ſhall in the firſt place yeild a briefe propoſall of mine Aſſertion; thus.</p>
+               <p>
+                  <hi>That men gifted for Preaching, though out of Office, may lawfully in any company preach the Goſpel.</hi>
+               </p>
+               <p>Words may admit of diverſe conſtructions, and ſome are apt to miſtake plaineſt expreſſions. Wherefore I ſhall to the Aſſertion add a cleare explaination of it: that my meaning in it being cleare diſcer<g ref="char:EOLhyphen"/>vered, and miſtakes about it wholly removed, the Chriſtian Reader may be put in a poſture rightly to judge of the thing, which is <hi>[nunce ſub judice]</hi> now in controverſie amongſt us. For the effecting whereof three queſtions ſhall be propoſed and anſwered, which may
+<pb n="2" facs="tcp:117637:4"/>
+plainly informe the Reader of my minde in the fore-going concluſi<g ref="char:EOLhyphen"/>on: As the three errowes, which <hi>Jonathan</hi> ſhot, gave notice to <hi>David</hi> of <hi>Sauls</hi> intention.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Queſti. </seg>1</label>
+                  <hi>What is it to preach the Goſpel?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer </seg>
+                  </label> Before a direct anſwer be return'd to this quaere, I ſhall take li<g ref="char:EOLhyphen"/>berty in a word to ſhew, what the Word of the <hi>Goſpel</hi> is: which will open a way to the Reader, whereby he may the more eaſily enter in<g ref="char:EOLhyphen"/>to the knowledge of the thing demanded. The <hi>Goſpel</hi> is a divine new-Teſtament doctrine, making a glorious diſcovery to man of the Al<g ref="char:EOLhyphen"/>mighties will concerning man. Now to Preach the <hi>Goſpel</hi> is nothing elſe, but to publiſh, make known, or declare the truths and myſteries contained in it.</p>
+               <p>That this is true may be as clearly perceived: as the Sun at noon<g ref="char:EOLhyphen"/>day, by the two following particulars.</p>
+               <p>Firſt, By conſidering the proper ſignifications of the principall words, which are commonly uſed to expreſſe the worke of <hi>Goſpel-preaching.</hi> Theſe three following I have ſpecially obſerv'd, whoſe ſig<g ref="char:EOLhyphen"/>nifications will give light to the truth of the fore-going difinition. The firſt is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which from the <hi>Septuagint</hi> and Greek Origi<g ref="char:EOLhyphen"/>nall is tranſlated in the Latine as Uer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion <hi>proclamare, praedicare,</hi> and ſignifies as much as <hi>aper<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e ſeu publice dicere vel docere,</hi> to divulge, report, publiſh or noyſe abroad. And ſo 'tis ended. <hi>Marke</hi> 5.20. Chap: 7.36. The Goſpel is a divine doctrine, or Proclamation from Heaven, con<g ref="char:EOLhyphen"/>taining in it houſe-top-diſcoveries, which concerne all, and are to be publiſhed to and apprehended by all. The ſecond is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Latine <hi>euangelizare,</hi> which is often tranſlated to preach the Goſpel, and doth properly ſignifie <hi>lata annunciare,</hi> to ſhew or bring glad ti<g ref="char:EOLhyphen"/>dings, and ſo 'tis turned in <hi>Luke</hi> 1.19. <hi>chap.</hi> 2.10. He that preacheth the Goſpel brings heart-rejoycing tidings to the creature; for the Goſpel diſcovers a ſufficient remedy for mans miſery and holds out the way to everlaſting glory. The third, which ſpeakes the ſame language with the former is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, to Propheſie; ſignifying properly to fore-tell or ſay any thing, <hi>Mat.</hi> 15.7. ſome time to re<g ref="char:EOLhyphen"/>veal a ſecret, <hi>Matth.</hi> 26.68. ſometime to teach, 1 <hi>Cor.</hi> 13.9. <hi>Revel.</hi> 11.3.</p>
+               <p>This word fitly ſets out the worke of Goſpel-preaching, for the World to come is the ſub<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ect or matter of the Goſpel: <hi>
+                     <g ref="char:V">Ʋ</g>nto the Angels</hi> (ſaith the Apoſtle) <hi>God ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h not put into ſubjection the world to come,</hi> where<g ref="char:EOLhyphen"/>of
+<pb n="3" facs="tcp:117637:4"/>
+of we ſpeake, <hi>Heb.</hi> 2.5. that is, God hath not made eternall life or e<g ref="char:EOLhyphen"/>verlaſting death, to be the matter of the Law, or that doctrine, which was ordain'd by Angels, of which world to come we that are Mini<g ref="char:EOLhyphen"/>ſters of the Goſpel ſpeake. All doe Propheſie who preach the Goſpel, for they fore-tell what ſhall be the everlaſting eſtate and condition of every man; that they ſhall enjoy life, that believe, that they ſhall meet with death, who have not faith to lay hold on eternall life.</p>
+               <p>Secondly, By comparing Scriptures where divers words and ſuch that condeſcend to the weakeſt capacity, are uſed to expreſſe the ſame worke of Goſpel-preaching. Amongſt twenty and ten take one or two, which will be ſufficient. Compare the firſt verſe of <hi>Acts</hi> 14. with the ſecond of the ſame <hi>chapter,</hi> where you ſhall find, that to preach the Goſpel is, To ſpeake or teach it to the People. <hi>Epheſ.</hi> 3. <hi>ver.</hi> 8. with the 9. will be alike uſefull. Thus being come to the period of the Anſwer to the firſt queſtion, I haſten to the ſecond, for through<g ref="char:EOLhyphen"/>out I intend to be brief.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Queſti. </seg>2</label>
+                  <hi>Who are gifted for Goſpel-preaching?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> 
+                  <note place="margin">Rom. 10.</note> They are gifted for it, who have neceſſary and ſufficient abilities to diſcharge it; <hi>For no man can preach except he be ſent, i. e.</hi> except he hath abilities to performe it. Knowledge and utterance are as need<g ref="char:EOLhyphen"/>full for this worke, as counſell and ſtrength for the war. And when God puts his words into men, and gives words to them to make diſcoveries of Goſpel myſteries, he then ſufficiently fits them to preach the Goſpel. He that hath knowledge and wants utterance can<g ref="char:EOLhyphen"/>not preach, but he that hath both is put in a poſture fit to preach; preaching being nothing elſe but a promulgation or ſpeaking of our apprehenſions unto others.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Queſti. </seg>3</label>
+                  <hi>Who are men out of Office?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> They, who are neither extraordinary nor ordinary Church-Offi<g ref="char:EOLhyphen"/>cers. Apoſtles were extraordinary, but Paſtors and Teachers were ordinary Church-officers. Therefore when we ſpeake in this con<g ref="char:EOLhyphen"/>troverſie of men out of office, we mean ſuch, who are neither Paſtors nor Teachers in viſible Churches.</p>
+               <p>Having thus commented, take a more large and plaine expreſſion of mine aſſertion, thus. That men who know the Goſpel and are a<g ref="char:EOLhyphen"/>ble to declare it, may <hi>[qua tales]</hi> as ſuch (being neither Paſtors nor Teachers in viſible Churches) make known in any company the myſteries of the Goſpel revealed to them.</p>
+               <p>
+                  <pb n="4" facs="tcp:117637:5"/>Having thus done with the explication, I ſhall advance next to the proofe of the Aſſertion: mine Antagoniſt requiring the performance of it by his <hi>affirmantis eſt probare;</hi> and method challenging this place as due unto it.</p>
+               <p>I ſhall bring forth teſtimonies of two ſorts, <hi>viz.</hi> divine and hu<g ref="char:EOLhyphen"/>mane. The firſt as infallible, the ſecond only as probable waies to prove it.</p>
+               <p>The divine teſtimonies which I ſhall alledge are reaſons drawne from Scripture, that juſt deſider of all controverſies, and diſcoverer of all doctrins.</p>
+               <p>Before the propoſall of the reaſons let this one thing (as needfull) be premiſed; That men gifted for preaching are no where in Scrip<g ref="char:EOLhyphen"/>ture reſtrained in uſing their guifts, either in reſpect of place or com<g ref="char:EOLhyphen"/>pany.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>1</label> Becauſe they, who enjoy gifts lie under a divine command to uſe them, and not to ſuffer their gifts to ruſt by them, or to lay them up in the Earth in a Napkin.</p>
+               <p>Divine commands are to the creature of a binding nature, from the force whereof men cannot, and Saints would not be free. And as nature, ſo the God of nature gives nothing in vaine. Where he be<g ref="char:EOLhyphen"/>ſtowes gifts there he requires the uſe of them. The truth of this do<g ref="char:EOLhyphen"/>ctrine Chriſt teacheth us in the Parable (<hi>Luke</hi> 19.23) where he tels us; <hi>That a certain noble man, when he went into a far Country Eaſt, called his ten ſervants and delivered unto them tenne pounds, and ſaid<g ref="char:punc">▪</g> Occupy till I come. Peter</hi> is a teacher of the ſame doctrine,<note place="margin">1 Pet. 4.10, 11.</note> where he ſaith: <hi>As every man hath received a gift, ſo miniſter one to another; as <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ood Stewards of the manifold grace of God.</hi>
+                  <note place="margin">Ro. 14.19. 1 Theſ. 5.10. Heb. 10.25.</note> 
+                  <hi>If any man ſpeake; let him ſpeake as the oracles of God. Paul</hi> alſo immitates Chriſt, and joynes hands with <hi>Peter,</hi> in requiring from Saints the ſame duty: for he exhorts them to ſtudy after peace, and things wherewith they may edify one another. In another place; <hi>To comfort and edify one another.</hi> Elſe-wher; <hi>To exhort one another.</hi> Which du<g ref="char:EOLhyphen"/>ties may be performed by the uſe of gifts, and ſo the uſe of gifts re<g ref="char:EOLhyphen"/>quired. Now to the Second Reaſon.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>2</label> Becauſe they, who have gifts ought to increaſe them, and not to content themſelves with that ſtatute, their gifts whereof, when they firſt received them.</p>
+               <p>Acquired gifts, whether common or ſpeciall, are not compleate at firſt entrance, but doe by degrees grow to perfection. Now men that
+<pb n="5" facs="tcp:117637:5"/>
+enjoy gifts ought by increaſing them to preſſe to the marke (i.) the perfection of them. They that received Talents, and increaſed them were commended, and as therein doing their duty,<note place="margin">Matth. 25.</note> were called <hi>Good and faithfull ſervants.</hi> But he who added not to his Talent, was con<g ref="char:EOLhyphen"/>demned, and as a neglector of his duty, term'd an evill and <hi>ſlothfull ſervant.</hi> And will any, who hath made Scripture, reaſon and experi<g ref="char:EOLhyphen"/>ence of his Counſell, doubt, whether the uſe of gifts be a direct way to increaſe them? If any ſhould, the Parable above mentioned will re<g ref="char:EOLhyphen"/>ſolve him; reaſon alſo and experience wil contribute to his ſatisfacti<g ref="char:EOLhyphen"/>on. <hi>
+                     <g ref="char:V">Ʋ</g>ſus perficit artem,</hi> is a received maxime. Now I haſten to the third Reaſon, which joynes hands with the former in the ſame teſtimony.</p>
+               <p>Becauſe Gods end in beſtowing gifts, cannot be anſwered without <label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>3</label> the uſe and exerciſe of them.</p>
+               <p>
+                  <hi>Every manifeſtation of the Spirit</hi> (ſaith the Apoſtle) <hi>is given for profit;</hi>
+                  <note place="margin">1 Cor. 12.7.</note> not only of him who doth enjoy it, but of him alſo who is intereſt<g ref="char:EOLhyphen"/>ed in it. All the enjoyments of Saints as Saints, are common amongſt Saints: for they all make up but one body in Chriſt Jeſus, and are members one of another in particular; and ſo what every one enjoyes as a part of the body, tis enjoyed for the good of the whole. A Be<g ref="char:EOLhyphen"/>liever, that hath received gifts,<note place="margin">1 Pet. 4.10</note> that are uſefull for the edification of his Brethren, is but Gods Steward for them; and cannot appeare faithfull (a diſpenſation being commiteed unto him) if he imparts not (when need requires) his gifts to thoſe, for whoſe good he en<g ref="char:EOLhyphen"/>joyes them. Now he that hath knowledge and utterance can no more profit others by them without the uſe of them,<note place="margin">Matth. 5.</note> than a Candle can give light to thoſe in the houſe, when tis under a Buſhell. As <hi>James</hi> once ſaid in reſpect of outward things: ſo may I ſay of inward gifts; if thou doſt not communicate, What do they profit? If the Saints want inſtruction, exhortation, or comfort, and we have wherewith to ſupply them; How may wee advantage them with out a communi<g ref="char:EOLhyphen"/>cation of our abilities to them?</p>
+               <p>Thus the third Reaſon having ſpoken its mind, hear what evidence the fourth brings with it.</p>
+               <p>Becauſe the practice of men out of office, in preaching the Goſpel <label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>4</label> is in Scripture mentioned and not condemned. The practiſes of men mentioned in Scripture and not condemned there, may be patterns to us. 1 <hi>Cor.</hi> 10.11. but we have in Scripture a mention not condemnation of the practice of men out of office in uſing their gifts in Goſpel-preaching
+<pb n="6" facs="tcp:117637:6"/>
+The Jewes allowed men, who were not their Church-officers, publikely to teach and preach amongſt them. <hi>Luke</hi> 4.16, 17, 18. <hi>Acts</hi> 13. <hi>ver.</hi> 14, 15. <hi>chap.</hi> 28.22, 23. Whence it was, that the Ru<g ref="char:EOLhyphen"/>lers of <hi>Iſrael</hi> did never (as I remember) condemne the Meſſengers of Chriſt Jeſus (being none of their Church-Officers) for the worke of preaching, but for the matter or doctrine they taught. The Primative Chriſtians made no ſcruple to hear thoſe preach, who were none of their Church-Officers, <hi>Acts</hi> 18.24, 25, 26. And it was the practice of the Saints to publiſh or preach both to the world and their Bre<g ref="char:EOLhyphen"/>thren the myſteries of the Goſpel made out to them. <hi>Acts</hi> 8.4. 1 <hi>Cor.</hi> 14. 1 <hi>Theſ.</hi> 5.10. <hi>Paul tels us (Phil.</hi> 1.) <hi>That he rejoyced that Chriſt was preached,</hi> though by men out of Office (for ſo they were in all proba<g ref="char:EOLhyphen"/>bility) and that through envy. This fourth Reaſon leaves the Read<g ref="char:EOLhyphen"/>er to make the concluſion, giving way by its ſilence to the next wit<g ref="char:EOLhyphen"/>neſſe, which is the fift Reaſon.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>5</label> Becauſe good effects do naturally flow from the uſe of private mens gifts. None make a ſcruple to believe that which naturally pro<g ref="char:EOLhyphen"/>duces good effects to be good in its own nature. But whether private mens preaching may be taken into the number of things producing naturally good effects is the thing in queſtion. If you will hear the Scripture ſpeaking it will informe you, that the bringing forth of private mens gifts, doth bring forth to the Church and World no ſmall commodity. <hi>Acts</hi> 11.21. 1 <hi>Cor.</hi> 14.3, 24, 25. Now ſhall experi<g ref="char:EOLhyphen"/>ence, which teacheth much truth, be hearde in giving out her ſen<g ref="char:EOLhyphen"/>tence? Thus ſhe utters her voice.</p>
+               <p>I have found by much obſervation, that as heretofore, ſo now men gifted for preaching uſing their guifts though out of office, are very advantagious inſtruments both to the Church and World. Not<g ref="char:EOLhyphen"/>withſtanding I muſt (ſaith experience) freely confeſſe, that ſome have by this practice been inſtruments of miſchiefe, but heerin they differ not from many of our licenſed Preachers. Thus far experience. The common opinion hath another byas, and ſpeakes in oppoſition to the fore-going affirmations. But tis no wonder to ſee errour and the common opinion companions together. Thus the fift Reaſon takes leave to be ſilent. And the laſt (for preſent intended) appeares to confirme what its fellowes have endeavoured to prove, and being in<g ref="char:EOLhyphen"/>forced to be ſome-what large in opening it ſelfe, the reſt through courtiſie to it have ſpent the leſſe time in uttering their ſpeech.</p>
+               <p>
+                  <pb n="7" facs="tcp:117637:6"/>Becauſe the deniall of the uſe of private mens gifts in preaching <label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>6</label> the Goſpel, hath an inſeparable retinue of ill and bad conſequences waiting upon it.</p>
+               <p>Its is a truth without controverſie; that the thing is not nick<g ref="char:EOLhyphen"/>nam'd, when cal'd evill, that naturally drawes after it ill and bad conſequences: for as wee <hi>Gather not Grapes of Thornes, or Figs of Thiſtles;</hi> ſo we enjoy not ſalt ſtreames from a freſh Fountain. But that the de<g ref="char:EOLhyphen"/>nyall of private mens preaching, doth engender ſuch a generation is a truth to which many (and almoſt all the Clergie) will not put to their ſeales. Wherefore I ſhall a little for the ſatisfaction of ſuch, open the Book of its generation.</p>
+               <p>The firſt born of the deniall of private mens preaching, is the ſhut<g ref="char:EOLhyphen"/>ing <label type="milestone">
+                     <seg type="milestoneunit">Conſe{que} </seg>1</label> up of that way, which the Scripture opens for the only right way into office. Election and ordination (the Churches worke) is the way, which the Scripture hath chalked out by which men may come into office. But the Church muſt bring none into office without proving their fitneſſe for the office. 1 <hi>Tim.</hi> 3.10. But they cannot know mens ſufficiency for the worke of preaching, without hearing them preach. Now if they muſt preach before they are made Church-officers; then ſome private perſons may preach. But if it be affirmed that none may lawfully preach being out of office, then Gods way is denyed of bringing men into office.<label type="milestone">
+                     <seg type="milestoneunit">Conſe{que} </seg>2</label>
+               </p>
+               <p>The ſecond ill conſequence, which cals the former brother is, the ſhutting up or making narrow the way to hear the Goſpel. For if none may lawfully preach but Church-officers; then none may be heard by us but thoſe, who are, or who are known to us to be lawfull Church-officers; and ſo the way of hearing the Goſpell will be ex<g ref="char:EOLhyphen"/>ceeding ſtraite and narrow; for,</p>
+               <p>Firſt, They that preach muſt firſt convince the people, that they are lawfull Church-officers, before they lawfully can preach amongſt them. For the people wanting conviction of their being lawfull church-officers; cannot be lawfully imployed in hearing. But how muſt they prove themſelves to be lawfull church-officers? Not from abilities, for that's the thing denied; not from habits or garments, which we may not allow to carry with them ſufficient power of con<g ref="char:EOLhyphen"/>viction; although many looke on black and canonicall Coates as markes of Miniſters. By what then moſt they prove their calling? Without doubt it muſt be by their election and ordination. But what
+<pb n="8" facs="tcp:117637:7"/>
+if any doubt of the lawfulneſſe of their electi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n and ordination? They may not th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n lawfully heare them, although they be lawfull Church-officers; <hi>For what's not of faith is ſin.</hi> And how the World then may be brought lawfully to hear the Word, I wot not: ſeeing they uſually are ignorant of, and enemies to the waies and orders of Ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſt's viſible Churches.</p>
+               <p>Secondly, If none may be heard but Church-officers (as none may, if none but they may preach) then none may be heard that are ſtrang<g ref="char:EOLhyphen"/>ers, till they are known by thoſe that heare, to be lawfull Church-officers. But how difficult a thing it would prove, to prove al ſtrangers to be lawfull Church-officers, all, that know any thing may eaſily judge. Many of the greateſt maintainers of the doctrine I oppoſe, are found to be frequent tranſgreſſors of it. For not a few Miniſters have admitted ſuch to preach in their pulpits, whom they know not, and who indeed are no Church-officers or none of theirs. Alſo many of the people of the ſame opinion, do with their Miniſters take hands in the ſame tranſgreſſion: in that they heare many preach, of whom they are wholly ignorant.</p>
+               <p>Thirdly, None may be heard who are ſuſpected (as before) or are known to be falſe Church-officers; be they never ſo eminent in parts or godly in life: of which paradventure not a few may be found. For mine own part, were I perſwaded, that none are lawfull Preachers but lawfull Church-officers, many who have me now (being of ano<g ref="char:EOLhyphen"/>ther opinion) ſome times in their auditory, ſhould altogether miſſe of my company. Some imbracing with them the ſame opinion, have made from their publike meetings a totall ſeperation; being per<g ref="char:EOLhyphen"/>ſwaded that Pariſh-preaching Miniſters were falſe Church-officers. For (ſay they) if their ordination (from which they prove their cal<g ref="char:EOLhyphen"/>ling) be ſufficient to make lawfull preachers, then there are at <hi>Rome</hi> lawfull Church-officers: in that both ours and theirs ariſe from the ſame fountain, but at a further diſtance; in that our firſt ordainers re<g ref="char:EOLhyphen"/>ceived from <hi>Rome</hi> their holy orders, from whom by way of ſucceſſion ordination, hath deſcended even to this generation.</p>
+               <p>Thus you may eaſily ſee how obnoxious the doctrine I oppoſe is to the hearing of the Goſpel.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Conſe{que} </seg>3</label> The third conſequent, which is of the ſame diſcent with thoſe fore-going is, That the Saints, when there is no neceſſity, muſt be re<g ref="char:EOLhyphen"/>ſtrained from enjoying the preaching of of the Goſpel.</p>
+               <p>
+                  <pb n="9" facs="tcp:117637:7"/>As if in caſe there may be, firſt ſome-times in ſome places (where Saints are) a ceſſation of viſible Churches. Or ſecondly, If where vi<g ref="char:EOLhyphen"/>ſible Churches are, ſome Saints are not convinc'd of their order. Or thirdly, If they are in order and want Church-officers. Or fourthly, If their Officers be (through ſickneſſe, perſecution, <hi>&amp;c.</hi>) abſent from them, in all which caſes (though they have amongſt them perſons of great abilities for Goſpel-preaching: yet) they muſt be expoſed (at leaſt) to ſcarcity of the Word; becauſe none but Church-officers may lawfully preach I ſhal not farther increaſe the number of the children of the forementioned Father, but ſhal leave it to the diligent ſearcher.</p>
+               <p>Thus I have done with the firſt ſort of teſtimonies which are <hi>divine,</hi> and ſhall now come to the ſecond, which are probable, being humane teſtimonies; which are either the ſpeeches or practices of men that are godly.</p>
+               <p>Of the ſpeeches of men, that profeſſedly ſpeake with me (that I may not overburthen this Booke) I ſhall inſtance but in a few.<note place="margin">An Apol. of the ex<g ref="char:EOLhyphen"/>iles. p. 45.</note>
+               </p>
+               <p n="1">1. The engliſh Chriſtians, who were Exiles in the low Countries, witneſſe to the truth of the doctrine heare pleaded for, their fourth poſition being this.</p>
+               <p>
+                  <hi>That diſcreet, faithfull and able men (though not yet in office of miniſtry) may preach the Goſpel and whole truth of God, &amp;c.</hi>
+               </p>
+               <p n="2">2. I ſhall bring in the <hi>Elders</hi> of the ſeverall Churches of <hi>New-England,</hi> ſpeaking fully to my mind in this particular, in their an<g ref="char:EOLhyphen"/>ſwer to the twenty ſeventh queſtion ſent over to them from certaine Miniſters of Old <hi>England:</hi> which I have not hear inſerted for brevities ſake; but it may be found at large, in a Book intituled <hi>Church Govern<g ref="char:EOLhyphen"/>ment and Church Covenant diſcuſſed,</hi> (p. 77.) publiſhed by Maſter <hi>Peters.</hi>
+                  <note place="margin">De con<g ref="char:EOLhyphen"/>ſcientiâ et ejus jure vel caſibus p. 229.</note>
+               </p>
+               <p n="3">3. You ſhall have the teſtimony of that learned man, Doctor <hi>Ames,</hi> whoſe workes praiſe him in the Gate. Thus he ſpeakes.</p>
+               <p>
+                  <hi>That for the preaching and teaching of the Goſpel a ſingular calling is not requir<g ref="char:EOLhyphen"/>ed.</hi> For proofe whereof he brings theſe Scriptures, <hi>Acts</hi> 8.4. <hi>c.</hi> 11.19. <hi>&amp;</hi> 21. <hi>c.</hi> 18.24. and adds to them theſe Reaſons.</p>
+               <p n="1">1. <hi>Becauſe, this is the duty of all Chriſtians, that they Promote as much as they can, the Kingdome of God: and therefore that they teach others the doctrine of God.</hi>
+               </p>
+               <p n="2">2. <hi>Becauſe tis ſome time neceſſary, that men be convinced of errors and in<g ref="char:EOLhyphen"/>ſtructed in truth before a calling can be rightly inſtituted.</hi>
+               </p>
+               <p n="3">3. <hi>Becauſe the People being ſome-times deſtitute of a Miniſter, cannot with<g ref="char:EOLhyphen"/>out
+<pb n="10" facs="tcp:117637:8"/>
+the loſſe of edification be holpen, unleſſe they allow thoſe to inſtruct them, who as yet are not rightly called to the miniſtry.</hi> Further he affirmes, <hi>That not only private but alſo publike preaching may be exerciſed without a ſingular calling, firſt, in a Church to be conſtituted. Secondly in a Church already conſtituted, with the approbation of that Church, if confuſion be avoided and order obſerved.</hi> 1 Cor. 14.23. Acts 13.15. <hi>For it belongs</hi> (ſaith he) <hi>to the Churches edifi<g ref="char:EOLhyphen"/>cation, that they who excell others in gifts, exerciſe thoſe gifts before others to help and ſtirr them up.</hi>
+               </p>
+               <p>Alſo (<hi>P.</hi> 245.) he ſpeakes to the ſame effect, affirming. 1. <hi>That there was in the primative Church a certain propheticall exerciſe diſtinct from ſermons</hi> 1 Cor. 14.31.32. <hi>&amp;c.</hi> 2. <hi>That not only Miniſters were permitted to uſe this exerciſe, but alſo among the brethren, the ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>efe and moſt expert, for tho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e gifts which they had conferred to them,</hi> ibid. 3. <hi>That it was alſo lawfull for other men of the Church for the ſake of learning to propoſe their doubts, that they might be taught of thoſe who were more skilfull<g ref="char:punc">▪</g>
+                  </hi> ibid. v. 35.</p>
+               <p n="4">4. <hi>That where this exerciſe may conveniently be brought into Churches, it ought not to be contemned.</hi> 1 Theſ. 5.20. 1. <hi>Becauſe it is moſt agreeing to the order of the primative Church approved by the Apoſtles. Secondly. Becauſe it ſingularly healpeth to ſtirre up, cheriſh and increaſe ſpirituall gifts in ſeverall Believers. Thirdly, Becauſe it taketh away negligence and envy, and nouriſheth charity.</hi> Thus far <hi>Ameſius.</hi>
+               </p>
+               <p n="4">4. Hear the judgement of M. <hi>Thomas Goodwin,</hi> and M. <hi>Nye,</hi> men of no ſmall eminency, their very enemies being Judges. They in their Epiſtle to M. <hi>Cottons</hi> Booke, of the <hi>Keyes of the Kingdome of Heaven,</hi> thus ſpeake.</p>
+               <p>
+                  <hi>Wee humbly conceive Propheſying (as the Scripture tearmes) or ſpeaking to edification of the whole Church may (ſometime) be performed by brethren gifted, though not in office as the Elders.</hi>
+               </p>
+               <p n="5">5. I might add to the number dear M. <hi>Burrowes,</hi> M. <hi>Peters,</hi> M. <hi>John Ellis junior</hi> with many others, who affirme; That men out of Office may preach the Goſpel; but I forbeare to cite their expreſſions having ſpoken enough of this particular. Wherefore I come to the next ſort of humane teſtimonies, to wit, godly mens practices, carrying a kind of teſtimony with them, what did the Martyrs (of whom our <hi>Cro<g ref="char:EOLhyphen"/>nicles</hi> make a glorious relation) who were not Church-officers, leſſe then preach publickly, when they did before multitudes of people open and apply the Scriptures, which men now call preaching? If it may be ſaid, that the congregationall Churches both in Old and New
+<pb n="11" facs="tcp:117637:8"/>
+                  <hi>England</hi> doe conſiſt of believers, men that are Godly, then it may bee affirmed, that Godly men, out of Office doe preach the Goſpel; for private mens Preaching is not a rare practice amongſt them. Who is there acquainted with Godlineſſe, that dares call thoſe ungodly who in the Army, City and Country do Preach the Goſpel though out of Office? What if I ſhould call writing in Divinity Preaching? And ſo put the ſtile of Preachers upon thoſe of the Layety, who are writers in matters of Divinity; I might then bring in Mr. <hi>Prynne</hi> and Doctor <hi>Baſtwicke</hi> (the one a Lawyer, the other a Phyſitian, both buſie writers in matters of Divinity) to juſtifie the practice of Private mens Prea<g ref="char:EOLhyphen"/>ching. But if that liberty may be deny'd me, yet I may boldly affirm, that there is ſuch a neerneſſe between the writing and Preaching of men out of Office, that the Arguments which juſtifie the one, will plead for the other.</p>
+               <p>Thus having diſpatch the confirmation of the thing in controver<g ref="char:EOLhyphen"/>ſie, I ſhall returne briefe anſwers to ſome common Queries, for ſomes ſatisfaction.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>1</label>
+                  <hi>Whether men out of Office may be fitted for Goſpel Preaching?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> Men may (ſaid Sir <hi>Richard Baker</hi>) have <hi>Sacrae dotes,</hi> though they are not, <hi>Sacerdotes.</hi> Abilities and holy Orders are not alwaies joyn'd and link'd together. What hinders? But that men being not Church Officers, may bee fit and able Preachers? Gods Spirit (from whom gifts for Goſpel-Preaching flow) breathes where it will, and is not cloyſter'd up amongſt the Cleargy. Are Tongues and Arts neceſſary to fit men for Preaching? If this were granted, ſome private men might then be found not unfit for Pulpits: for in Learning many of the layety will not come a ſtep behinde the Clergy.</p>
+               <p>Doth not experience teach us? That many out of Office doe (at leaſt) equalize the beſt, and farre ſurmount the greateſt part of our Church-Officers. Who thinkes not but that Doctor <hi>Baſtwicke</hi> eſteems himſelfe of this number, ſith in contending about Church-Govern<g ref="char:EOLhyphen"/>ment he's not contented to trayle a Pike after the Cleargy, but ſtiles himſelfe Captaine of the Presbyterian Army.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>2</label>
+                  <hi>Whether Preaching Officers will not be uſeleſſe, if all gifted for Preaching may be Preachers?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſ. </seg>
+                  </label> There is a mutuall agreement amongſt the Ordinances of Chriſt Jeſus, the one not (in the leaſt meaſure) jarring with, or ſhouldring out another. The Saints in the Primative Churches did, and they
+<pb n="12" facs="tcp:117637:9"/>
+now, who judge themſelves to be viſible Churches, eſteeme Preach<g ref="char:EOLhyphen"/>ing-Church-Officers to be needfull, notwithſtanding their private Preachers.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>
+                  </label>
+                  <hi>Why are ſo many Preachers and others ſo oppoſite to private mens Preaching?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> There are many and ſome that are Godly, who are oppoſite to the Exerciſe of private mens gifts in Propheſie. And 'tis no wonder to ſee men, that are Godly to diſlike things that are good; ſith the well of corruption (in this life) is not dry'd up in them, out of which Satan pumps all evill motions and actions, appropriated to them.</p>
+               <p>Many doe ſo behave themſelves towards private mens Preaching through ignorance, or want of light only. Which men oppugne truth <hi>(Non qua veritatem, ſed qua errorem)</hi> not as truth but as errour, for ſo it is in their judgements they miſ-judging by miſ-apprehending of it. They miſtaking it (as <hi>Mary</hi> did Chriſt, when ſhe ſaw him in the garden ſuppoſing him to be the gardiner) will not owne it. And miſ-apprehending it (as <hi>Peter</hi> did Chriſt, when he ſaw him walke on the water) are afraid of it. If they know it to be truth, they would (as <hi>Lydia</hi> did (<hi>Acts</hi> 16.15.) in reſpect of the Saints) earneſtly deſire to entertaine it, and out of love to it would contend for it, and that unto bloud. But many there bee, who in their oppoſitions againſt private mens Preaching are guided by an evill ſpirit, and ſelfe-love that corrupt affection hath predominancy in them. They are ſo much endeared to their credit, caſe and profit, that they cannot with delight looke on that practice, becauſe it croſſeth (as they appre<g ref="char:EOLhyphen"/>hend) each of their darlings. The Spirit of <hi>Deotrophes</hi> and of <hi>Deme<g ref="char:EOLhyphen"/>trius</hi> appeares to be in too many amongſt us.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>
+                  </label>
+                  <hi>Whether private mens Preaching would be inoffenſive, if they would not Preach in Miniſteriall places, and take up in Preaching Miniſteriall Formes?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> I am ignorant, what places are called miniſteriall unleſſe Pulpits. But why they ſhould be accounted more miniſteriall then other pla<g ref="char:EOLhyphen"/>ces I wot not: although many looke on the Pulpit as a place ſo ſa<g ref="char:EOLhyphen"/>cred, that none unleſſe under holy Orders may lawfully enter in it.</p>
+               <p>And as for Formes and methods in Preaching, I would be inform<g ref="char:EOLhyphen"/>ed. Firſt whether Gods Directory doth direct Miniſters to this or that Forme or method, as alwaies neceſſary and peculiar to them.</p>
+               <p>Secondly if it doth ſo; what is that Forme (or thoſe Formes) which is alwaies neceſſary and peculiar to them. Could I bee perſwaded,
+<pb n="13" facs="tcp:117637:9"/>
+that there are Formes in Preaching peculiar to Miniſters, I ſhould willingly vote, that no lay man in Preaching ſhould lay hands on them. But being perſwaded to the contrary, I wiſh that all private Preachers would ſtand faſt in their liberty, and not be intangled in a yoak of bondage. Thus I have done with the Queries, and ſo with the Firſt part of the Treatiſe.</p>
+            </div>
+            <div n="2" type="part">
+               <head>The Second Part. Wherein the <hi>Author</hi> addreſſeth himſelfe to his <hi>Antagoniſt</hi> in particular, in anſwering certaine extravigances obſerv'd and pick'd out both of the Epiſtle and Treatiſe.</head>
+               <p>
+                  <seg rend="decorInit">S</seg>IR, before I preſent to the Reader mine anſwers to your exceptions againſt mine allegations for private mens Preaching, (leaſt he ſhould be troubled and puz<g ref="char:EOLhyphen"/>led by many digreſſions,) I ſhall impart to him (in ſpeaking to you) ſome of mine obſervations, occa<g ref="char:EOLhyphen"/>ſion'd by your writing, and fit to be noted.</p>
+               <p>Firſt, Sir I ſhall make to you this ingenious confeſſion; that your writing hath deceiv'd much mine expectation. I look'd for a Juſtifi<g ref="char:EOLhyphen"/>cation (at leaſt in ſhew) of Mr. <hi>Beales</hi> Reaſons, which you under<g ref="char:EOLhyphen"/>tooke and promiſed to doe. But behold nothing leſſe: for having ſingled out three Scriptures, which in the diſcourſe I alleadged, you againſt them (for the end I quoted them) have bent your forces; leaving the Gentlemans engaged Reaſons to ſhift for themſelves. So that this your birth was as farre from my thoughts: as that which the Mountaines (in the Fable) brought forth was to thoſe, who long waited for their delivery.</p>
+               <p>
+                  <pb n="14" facs="tcp:117637:10"/>
+                  <hi>Jacob</hi> expected <hi>Rachel,</hi> but behold <hi>Leah</hi> was unexpectedly brought to him. But Sir, what were your reaſons, that the Gentlemans rea<g ref="char:EOLhyphen"/>ſons ſhould indeed (though not in ſhew) be forſaken by you? Shall I gueſſe? I will ſhoot my bolt, if I hit not the white: yet (I ſuppoſe) I ſhall not be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> from the marke.</p>
+               <p>Peradventure you having a better view of the Miniſters reaſons than himſelfe, and ſeeing them to weake for the condemnation of private mens Preaching, have brought forth againſt it a new accuſa<g ref="char:EOLhyphen"/>tion; being unwilling that the thing in controverſie ſhould receive the ſentence of abſolution: leaving the former reaſons to ſtand by as cyphers amongſt the witneſſes in this preſent controverſie, not con<g ref="char:EOLhyphen"/>ſenting to their election out of the company. Or it may be you <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that ſome of his reaſons would bee the condemnation of ſome of your actions: for of this I am ſure, that ſome of his doctrine and your practice will not in amitie ſhake hands together.</p>
+               <p>Secondly, I ſhall preſent to you ſome objects of mine admira<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Firſt, I ſomething wonder at the ſublimity and highneſſe (not of your conceptions or expreſſions, but) of your ſtomack <hi>(Sit venia ver<g ref="char:EOLhyphen"/>bo)</hi> diſcover'd in and by your expreſſions. I take not <hi>John Knowles</hi> (ſay you) as a meet <hi>Antagoniſt</hi> in this controverſie. I know you would, that ſome of eminencie ſhould give you a meeting to con<g ref="char:EOLhyphen"/>tend with you, that you may if you looſe the field, lye under the leſſe diſgrace. But Sir <hi>[Non vacat exiguis rebus adeſſe jovi]</hi> they want leaſure (having in their hands waighty imployments) to attend ſuch ſmall matters. And doe thinke, that your unmeete Antagoniſts are meete enough to grapple with you. And Sir, why doe you contemne me? As I perceive you doe, not only by your Paper, but by a ſpeech alſo, which I heard from you in Generall <hi>Maſſies</hi> Chamber. But where<g ref="char:EOLhyphen"/>fore? Is it becauſe of my minority? Why ſhould that make me unfit to deale in the controverſie? Shall not the Spirit of God bee ſuffer'd <hi>Spirare ubi vult,</hi> to breath where it will? Or muſt his breathings be contemned, if they are found in Babes and Suckling? Surely if the Doctors in the Temple had been of that judgement, <hi>Chriſt Jeſus</hi> (whil'ſt a Child) had not been ſuffer'd to diſpute amongſt them. <hi>Saul</hi> thought <hi>David</hi> unfit and unable for meeting with, and conquer<g ref="char:EOLhyphen"/>ing of that great <hi>Goliah,</hi> becauſe <hi>Puer erat,</hi> he was but a Child. Thou art (ſaith he) <hi>not able to fight with this Philiſtin; for thou art but a youth,
+<pb n="15" facs="tcp:117637:10"/>
+and he a man of warre from his youth.</hi> Or is it becauſe I am not of the Cleargie? Truly (Sir) though I am not of the Lord Biſhops, yet I am of the Lord <hi>Jeſus</hi> his Cleargie, to wit, <hi>his heritage.</hi> But why doe I act ſo much folly, as to wipe away diſgracefull ſpeeches of this na<g ref="char:EOLhyphen"/>ture? Eſteeme of me how you will: <hi>By the Grace of God I am what I am.</hi>
+               </p>
+               <p>Secondly, I a little marvaile at your liberality and freeneſſe, in granting that Tongues are not neceſſary <hi>[Ad eſſe, ſed ad bene eſſe]</hi> to the being but to the well being of a Paſtor or Preacher. Sir, by this affirmation, you have neither anſwered mine expectation, nor grati<g ref="char:EOLhyphen"/>fied the Miniſter in ſupporting his Reaſons: whereof one hath recei<g ref="char:EOLhyphen"/>ved a deaths wound from it. For his third Reaſon is this.</p>
+               <p>
+                  <hi>Private men</hi> (ſaith he) <hi>may not Preach becauſe they are not fit for the worke, ſo <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ugh Lay-perſons have a good meaſure of the knowledge of Divinity: yet they are not preſently fit to Preach the Word; for a Preacher there is required the knowledge of the Arts and Tongues, of which lay men are moſt commonly ig<g ref="char:EOLhyphen"/>norant.</hi> Thus have you befriended your friend; (though paradven<g ref="char:EOLhyphen"/>ture unwittingly;) and fairely vindicated his third Reaſon. For hereby you (although mine Antagoniſt) have holpen me againſt him, who you call mine adverſary, and have joyned hands with me to pull downe his building. For <hi>Te ipſo judice</hi> his third Reaſon will proove uſeleſſe, to harme the opinion of thoſe, who hold it lawfull for men out of Office to Preach the Goſpel.</p>
+               <p>Thirdly, another object of mine admiration is your great par<g ref="char:EOLhyphen"/>tiality; in that you deny that liberty to others, which you ſo fre<g ref="char:EOLhyphen"/>quently make uſe of, and that in a laviſhing manner. Your wholl Booke is little elſe than an heap of inconſequentiall conſequences, Notwithſtanding (in p. 23.) the weapon of conſequences muſt not by me and ſome others be handled, if you might have the ordering of us. But why muſt we not enjoy this liberty with you? Seeing (as you ſay) arguing by conſequences is good and to be allowed. What muſt we have no liberty to uſe that, which may harme you? But you would informe us, what the reaſon why you deny us conſequenciall reaſoning is, becauſe it is denyed (ſay you) to us by many amongſt us in point of Paedobaptiſme and ſome higher matters.</p>
+               <p>Sir (by your favour) I cannot believe, that any amongſt us either have or will deny in Paedobaptiſme, <hi>&amp;c.</hi> conſequentiall Arguments, becauſe conſequentiall: though they cannot allow (and that perad<g ref="char:EOLhyphen"/>venture
+<pb n="16" facs="tcp:117637:11"/>
+on ground ſufficient) your conſequentiall Arguments; becauſe they (at leaſt) conceive that they are inconſequentiall. But if there be any, who with their wits keep ſo little company; as to de<g ref="char:EOLhyphen"/>ny arguing from conſequences: may it by conſequence be gath'red in reaſon, that I am of the ſame opinion: And If I am not guilty (as indeed I am not) of the ſame tranſgreſſion; what equity is there, that I ſhould ſuffer with them the puniſhment of it? As for other things you have in the page forementioned, I rather ſmile at, than anſwer to them.</p>
+               <p>Fourthly, But the greateſt object of my wonder, and that which mainly mov'd me to put pen to Paper, is your fained charity and un<g ref="char:EOLhyphen"/>charitable curteſie. You tel your Reader (in the end of your Epiſtle) that you have (as if you were made up of Charrity) left out of your Booke the ſlander (whereof I was (as you ſuppoſe) guilty) being of more private concernment. Sir, 'tis true the accuſa<g ref="char:EOLhyphen"/>tion hath not enter'd within the Treatiſe, 'twas your pleaſure to leave it at the portall; that the very paſſers by might behold me guil<g ref="char:EOLhyphen"/>ty. For in the Epiſtle by Capital and bloudy Letters you give notice to your Read<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, that I was guilty of laying a fowle aſpertion and unchriſtian ſlander upon a Miniſter neare in relation to you. Your owne words are theſe, (ſhewing one end of your writing) <hi>and for the Vindication of a painfull Miniſter, neare in relation to me, from a fowle aſper<g ref="char:EOLhyphen"/>ſion and unchriſtian ſlander laid upon him in that writing.</hi> Sir, if I heer Apo<g ref="char:EOLhyphen"/>logize for my ſelfe, I hope I ſhall not be blam'd for it; ſith there is no man ſo careleſſe but hath ſome care of his credit; and nothing more lawfull, than for a man, when his good name is unjuſtly taken from him, to endeavour by juſt meanes to regaine it to him. The wiſe man tells us, <hi>That a good name is more deſirable than ample riches, and better than the beſt ointment.</hi> The expreſſion in my writing on which the accuſation laies it's foundation is this, <hi>What ſhall we then ſay to our Engliſh Prieſts, who at a Prelates pro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ibition, will ceaſe to be Preachers and turn Phyſitians?</hi> Sir by your owne confeſſion, this is the only ſpeech, whence you gather, that I am guilty of a fowle aſperſion and unchri<g ref="char:EOLhyphen"/>ſtian ſlander. Where you have learn'd this art of <hi>Deduction,</hi> to draw that out of mine interrogation which was not in it, I could informe you. But that the Reader and you (if you pleaſe) may underſtand, how unjuſtly you have drawne ſuch an accuſation from that expreſſi<g ref="char:EOLhyphen"/>on, I ſhall <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ate the occaſion of it; by ſetting downe the Miniſters firſt Reaſon, and part of mine anſwer to it: wherein the expreſſion
+<pb n="17" facs="tcp:117637:11"/>
+ſo offenſive and ſinfull (in your conceit) is contained.</p>
+               <p>The Miniſters Firſt Reaſon againſt private mens preaching is word for word this.</p>
+               <p>
+                  <hi>The reaſon (ſaith he) is the ſaying of the Apoſtle</hi> Paul, 2 Cor. 7.20. Let every man abide in the ſame calling, wherein he was called. <hi>Now when a lay man doth take upon him the preaching of the Word, he doth not abide in the ſame calling, wherein he was called; he doth not keepe himſelfe within the compaſſe of his owne calling, but he doth paſſe the bounds and limits of it. And doth not the ſame Apoſtle will the</hi> Theſſalonians (1 Theſ. 4.11.) <hi>To ſtuddy to be quiet and to doe their owne buſineſſe, to worke with their owne hands, as he commanded them? Now when a Lay-perſon doth undertake the preaching of the Word, he doth not doe his owne buſineſſe, his proper worke, but doth meddle with a buſineſſe that concernes him not.</hi>
+               </p>
+               <p>Thus far the Miniſters Reaſon; mine anſwers followes.</p>
+               <p>
+                  <hi>The Anſwer.</hi>
+               </p>
+               <p>That we may the better give an anſwer to this reaſon, wee will draw it up into two Sillogiſmes.</p>
+               <p>The Firſt whereof is this.</p>
+               <p>
+                  <hi>Every one ought to continue in that calling wherein he was called.</hi> 1 Cor. 7.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>
+                  <hi>But a Lay-perſon, that takes upon him the Preaching of the Word doth not continue in the ſame calling wherein he was called. Therefore a Lay perſon ought not to preach the Word.</hi>
+               </p>
+               <p>To the Firſt we Anſwer, That the Authors bare literall expreſſion of thoſe words, though not his intention in the expreſſing of them is good and Lawfull. His expreſſion's good; becauſe 'tis the Apoſtles: his intention evill; becauſe not conſonant but repugnant to the meaning of the Holy Ghoſt in that place. Wherein it ſeemes that hee laid it down either from groſſe ignorance, or with purpoſe to deceive and beguile unſtable Souls. His drift in the allegation of that Text was to prove; that Lay men (as they call them) having trades <hi>&amp;c.</hi> ought to continue in them, and not to depart from them. But how contrary this is to the meaning of the Apoſtle theſe conſiderations will plainely ſhew.</p>
+               <p>Firſt, conſider to whom the Apoſtle directs the words, to wit, to believing Husbands, Wives and Servants.</p>
+               <p>Secondly, conſider the end for which they were ſpoken, which was
+<pb n="18" facs="tcp:117637:12"/>
+the ſatisfaction of the <hi>Corinthians</hi> in this ſcruple, whether (to inſtance in an Husband) the believing Husband ſhould continue with his un<g ref="char:EOLhyphen"/>believing Wife, and not leave her he being called to the Faith. The Apoſtle denyes it, and commands him to continue in that calling (to wit of an Husband) in which he was, when called to the Faith.</p>
+               <p>Thirdly, If that be the meaning, then the Apoſtle (as I ſuppoſe) muſt needs be contrary to himſelfe. For in verſ. the 21. he exhorts Servants (the perſons to whom the exortation in verſe the 20. was directed<g ref="char:punc">▪</g>) that if they be called being Servants, that they ſhould not care: but if they might be free, that they ſhould uſe it rather. Now according to the Authors expoſition, I cannot ſee how theſe two pla<g ref="char:EOLhyphen"/>ces can agree together.</p>
+               <p>Fourthly, conſider the ill conſequence of that expoſition. Then Chriſts Diſciples did ſin in departing from their firſt callings and in ſetting upon another. And if they did ſin in it, then Chriſt was the cauſer of it, for he commanded them ſo to doe: which to affirme is no leſſe then blaſphemy.</p>
+               <p>Now you may ſee, that the propoſition for the end which he uſeth it is vaine and idle. But ſuppoſe it were granted, that it is unlawfull to leave one calling for another. What ſhould wee then ſay to thoſe <hi>Engliſh</hi> Prieſts, who at a Prelates prohibition, will c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſe to be preach<g ref="char:EOLhyphen"/>ers and will become Phyſitians? And what will it make againſt pri<g ref="char:EOLhyphen"/>vate mens preaching? Nothing ſurely, as we ſhall preſently by our Anſwer to the Minor propoſition clearly prove.</p>
+               <p>Now for the Aſſumption, where the Author t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lls us; that a Lay man, that takes upon him the preaching of the Word departs from that calling, wherein he was called.</p>
+               <p>To which I Anſwer. Firſt, That if his words be rightly underſtood (as being the words of the Apoſtle) he ſpeaketh non-ſence. For this is the meaning of the Apoſtles words. That every one ought to con<g ref="char:EOLhyphen"/>tinue in his calling (as that of an Husband, <hi>&amp;c.</hi>) wherein hee was when called to the Faith; although as being an Husband he hath an unbelieving Wife. This being the Apoſtles minde, the Aſſumption will thus runne.</p>
+               <p>Every Lay perſon that preacheth the Word, being called to bee an Husband or Servant departs from being an Husband or Servant.</p>
+               <p>Secondly, Although we ſhould take his meaning and leave his words: yet here is nothing but bare affirmations, without any
+<pb n="19" facs="tcp:117637:12"/>
+probation, and therefore of Chriſtians it deſerves no better then re<g ref="char:EOLhyphen"/>jection. The man had ſaid ſomething to purpoſe, if he had proved, that every lay man departs from his calling by taking on him the preaching of the Word: as heer he hath affirmed.</p>
+               <p>Thirdly, I Anſwer, That his aſſumption is moſt falſe and untrue.</p>
+               <p n="1">1. Becauſe, they doe not depart from their callings, who uſe them. But thoſe who preach as lay perſons uſe their callings: therfore, <hi>&amp;c.</hi>
+               </p>
+               <p>Secondly, Becauſe they depart not from their callings, who live by them. But they who preach as Lay perſons, live not by their prea<g ref="char:EOLhyphen"/>ching, but by their callings.</p>
+               <p>Fourthly, I Anſwer, That dangerous conſequences doe follow from it. As,</p>
+               <p>Firſt, That all thoſe Chriſtians in the Primative time who were ſcattered abroad, by reaſon of the perſecution, that aroſe about <hi>Ste<g ref="char:EOLhyphen"/>ven,</hi> departed from their callings, for it is written, that they went about preaching. <hi>Acts</hi> 8.4.</p>
+               <p>Secondly, That <hi>Paul</hi> departed from his preaching, becauſe hee uſed the occupation of Tent-making, <hi>Acts</hi> 18.3.</p>
+               <p>Thirdly, That God commands all, who have the gift of prophe<g ref="char:EOLhyphen"/>ſie to depart from their lawfull callings. For he hath commanded all that have the gift to uſe it, according to the proportion of Faith. <hi>Rom.</hi> 12.6. Thus farre the Anſwer.</p>
+               <p>Sir, if you would judge with impartiality, you would (notwith<g ref="char:EOLhyphen"/>ſtanding your high accuſation) bee inforc'd to pronounce me non-guilty. If you will not; yet I hope the reader will, who is ingenious and impartiall. Wherefore I might in equity draw my ſelfe as inno<g ref="char:EOLhyphen"/>cent out of the accuſation, and bring you in, as being guilty of (to uſe your owne words) <hi>a fowle aſpertion and unchriſtian ſlander</hi> againſt me.</p>
+               <p>Before I paſſe over the accuſation have patience to heare a few of mine obſervations from it.</p>
+               <p>Firſt, I obſerve (but this by the bye) your great overſight in your very Grammaticals. 1. In miſ-underſtanding common plaine <hi>Eng<g ref="char:EOLhyphen"/>liſh,</hi> which a man below the degree of a Maſter of Arts might have eaſily perceived<g ref="char:punc">▪</g>. 2. In taking Prieſts, Preachers and Phyſitians to be words of the ſingular number.</p>
+               <p>Fourthly, I cannot but note (I wiſh you may ſeriouſly take notice of it) your willingneſſe to expoſe me to publike diſgrace. My name
+<pb n="20" facs="tcp:117637:13"/>
+hath heretofore amongſt ſome been ſomewhat infamous in the Citie by your occaſion. But as therewith being unſatisfied, you have rai<g ref="char:EOLhyphen"/>ſed a rumour throughout the Country by your printed papers; that I am guilty of a fowle aſperſion and unchriſtian ſlander. And all this notwithſtanding I was publiquely cleared before the Magiſtrate. For I was (being at the Tolſy) accuſed by one of your party, and clear'd by a Miniſter of your owne, after I had made for my ſelfe a briefe A<g ref="char:EOLhyphen"/>pologie in the audience of the whole Aſſembly, hee profeſſing that I was only faulty in calling them Prieſts, a diſgraceful title. To whom I replyed after this manner. That the name in it ſelfe is not diſgrace<g ref="char:EOLhyphen"/>full. And although it belongs not now to men as Church-Officers: yet 'twas a wonder that men retaining Epiſcopall Ordination ſhould be offended with it; <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th by that name they were Ordained Miniſters, and frequently ſo call'd by their Book of Common Prayers.</p>
+               <p>What Sir, is this a carriage fit for a Chriſtian to a Chriſtian? Or am I not a Chriſtian, becauſe not a dependant but Independant <hi>Pres<g ref="char:EOLhyphen"/>by<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erian?</hi> Were I a <hi>Turk,</hi> you might not wrong me: for the Goſpel doth not allow a Saint to hate, of un<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſtly to diſgrace his enemy: Well Sir, take heed, leaſt the ſame bread by ſome other be broken to you; and the ſame meaſure rendred, which you have meted out to me in fall meaſure, preſſed downe and running over.</p>
+               <p>Thirdly, I have obſerved your ſtraying from the rules of common equity; in that you have accus'd me in the worlds eye as a perſon fowly criminous, without ſhewing wherein, or proving, that I was guilty. <hi>Phyloſophy</hi> (wherewith that you are acquainted, you would by your title maſter of Arts informe your readers) it would have taught you a better leſſon, had you but conſulted with its Oracles, although you had in the doctrine of Theologie been wholly ignorant. Thus much of that accuſation.</p>
+               <p>Now further you have diſcover'd your Charity towards me to bee but fained, by accuſing me (in your Epiſtle to the Reader) of a crime as great, if not greater then the former: to wit, that I took the bold<g ref="char:EOLhyphen"/>neſſe publiquely before the Magiſtrate to defend the practice of pri<g ref="char:EOLhyphen"/>vate mens Preaching, with ſuch contemptuous language againſt the godly and faithfull Miniſters of this Kingdome, as the five Reverend Apologiſts abhorre the thoughts of. 'Tis true, I tooke the boldneſſe to defend that practice, but with no contemptuous language againſt the godly, my Soul abhorr'd it. But <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir, what were the contemptuous
+<pb n="21" facs="tcp:117637:13"/>
+ſpeeches I then uſed? Or how came you to know them, being not then preſent, if my memorie proves faithfull to me? You were per<g ref="char:EOLhyphen"/>adventure ſo inform'd. But they (if any) who did ſo informe you, will not dare (I am confident) before my face to affirme it; for I ſhall diſprove them. Sir, ſhall I take the boldneſſe to informe you, being ignorant of the truth in that particular, if not worſe. The truth is, I was ſo farre from being guilty of contemptuous language againſt any (much leſſe the godly) that ſo much as an accuſation was not carryed on againſt me. Yea further I was (at my ſecond appear<g ref="char:EOLhyphen"/>ing) by an Alderman publikely freed from being guilty of any ſuch language. And I appeale to all of that Aſſembly, but eſpecially to the Right Worſhipfull Major * (that then was) and Aldermen (whoſe curteous carriage at that time towards me I remember with all grate<g ref="char:EOLhyphen"/>fulneſſe) to ſentence for or againſt me. What Sir,<note place="margin">Mr. Luke Nurſe.</note> do you thinke your bare accuſation ſufficient to condemne me? At that rate who ſhall be guiltleſſe? <hi>Ecquis inſons erit, ſi accuſatori crimine non probato, fides habea<g ref="char:EOLhyphen"/>tur?</hi> Said <hi>Julian</hi> the Emperour. Or doe you thinke it not an evill to take up and divulge falſe reports of others? Or is it from your cha<g ref="char:EOLhyphen"/>ritable credulity that you have followed Mr. <hi>Edwards</hi> in telling Sto<g ref="char:EOLhyphen"/>ries? Thus much for your feigned charity, now for your uncharitable curteſie.</p>
+               <p>You have (<hi>pag.</hi> 1.) inform'd your Reader, that in anſwering my writing you have gratified me with the omiſſion of things ſcattered in it. Surely Sir I hold not my ſelf bound in duty to give you thanks for this your curteſie, it being but a crafty way of diſgracing, or at the beſt but Court-like, meerly Complementall. For I ſuppoſe had it been reall, much of your paines in page 21. had been ſpared, and ſuch an anſwer to my Querie had not been rendred. But I muſt (ſay you) returne an anſwer to his demand. Peradventure 'twas becauſe you could (within the compaſſe of that writing) finde nothing elſe, from which colourably you might diſgrace me. But what is the de<g ref="char:EOLhyphen"/>mand you muſt needs anſwer? The Miniſter having affirmed, that the knowledge of the Arts and Tongues is required to make a Preacher, I therefore demanded; <hi>Whither by Arts he did underſtand the art of Geometry, Aſtronomy, or the like? And for Tongues, Whither it be the Welch, Iriſh, Latine, Greek, or Hebrew? Or whither all Tongues be required to make a man fit for Pro<g ref="char:EOLhyphen"/>pheſying?</hi> For this Querie I am to be blamed, if your obſervations on it be obſervable. What is it? Say you. A ſcoffe. That's your conceit.
+<pb n="22" facs="tcp:117637:14"/>
+But what doe you gather from it as imply'd in it? Firſt that I am ig<g ref="char:EOLhyphen"/>norant, Secondly impudent. But by what Logick? Not by that, which <hi>Ariſtotle</hi> but Mrs <hi>Invid<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a</hi> taught you. But let us ſee how in your judgement mine ignorance and impudence ſhines forth by that Querie. Mine ignorance of the Arts appeares by my ſcoffing at them; for thus you ſay. <hi>Our writer ſcoffing at them is only a proclaming his igno<g ref="char:EOLhyphen"/>rance of them.</hi> Sir you have there gather'd up, what I never ſtrew'd, and have builded on a foundation never laid by me. If you could prove, that I ſcoffed at the Arts, your inference would be good, that I was ignorant of them. But I was ſo farre from ſcoffing at them, that I alwaies have highly eſteem'd them, ſince I enjoy'd the leaſt inſight in the leaſt of them. Now for mine impudency in regard of the Tongues, which you obſerve and wonder at alſo. For thus you ſay. <hi>For the Tongues; Firſt I wonder at this youths impudency, &amp;c.</hi> What, no leſſe than impudency? But let us ſee, whether you have without im<g ref="char:EOLhyphen"/>pudency accus'd me for it. How have you made good your charge againſt me? By two Reaſons, alike weighty. Firſt in that I jumble the Greeke and Hebrew Tongues in a ſcoffe amongſt the Welch and Iriſh. Sir, it ſeemes that I am (in your judgement) impudent, not becauſe I made a mention of thoſe Tongues together, but becauſe I did it in a ſcoffing manner. But how doe you prove it? ſo you ſup<g ref="char:EOLhyphen"/>poſe. But ſuppoſitions are inſufficient to juſtifie accuſations. Now what's your Second Reaſon? This, becauſe I parallel'd in a jeering manner the originall Languages with the Welch and Iriſh, Tongues of leaſt uſe and repute. If this were true, then might you argue impu<g ref="char:EOLhyphen"/>dency truly from it. But how may it in equity be gathered from my Querie, that I did parallel or equall the Welch and Iriſh Tongues to the Greeke and Hebrew, becauſe I did there name them together? If I were guilty of impudency and did ſee it, I ſhould not bee ſo impu<g ref="char:EOLhyphen"/>dent as not to be aſham'd of it. Notwithſtanding what here you have ſaid I ſee no cauſe why I ſhould bluſh. Thus ends the Second Part of the Treatiſe.</p>
+            </div>
+            <div n="3" type="part">
+               <pb n="23" facs="tcp:117637:14"/>
+               <head>
+                  <hi>The Third Part.</hi> Wherein the examination of Private mens Preaching is examined.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>Ll is not (ſaith the Proverb) Gold, that gliſters. Ther<g ref="char:EOLhyphen"/>fore let us (according to the old Motto) firſt try be<g ref="char:EOLhyphen"/>fore we truſt: or rather (as the Apoſtle ſpeaketh) <hi>Try all things and hold faſt that which is good.</hi> Wherefore I ſhal here bring the Examination of private mens preach<g ref="char:EOLhyphen"/>ing unto the touch-ſtone of Examination, affording a luſt and Legall tryall to it; that we may know how juſtly to paſſe ſentence on it. In page 1. mine <hi>Antagoniſt</hi> hath expreſt my grant to the Miniſter, mine Adverſary, as he calls him. I am ſtill in the ſame minde. What I then granted, I ſhall not now deny. If private men, gifted for preaching, have no more authority to preach; than <hi>
+                     <g ref="char:V">Ʋ</g>zzah</hi> had to put his hand to the <hi>Arke,</hi> which was contrary to command; they ſhall be (as <hi>
+                     <g ref="char:V">Ʋ</g>zzah</hi> was) guilty of ſinne, if they doe it.</p>
+               <p>Next having laid downe the Doctrine, I maintain'd againſt the Miniſter, he drawes forth three Scriptures, which I alleadged to juſti<g ref="char:EOLhyphen"/>fie private mens Exerciſe of the gift of propheſie; and endeavours to make them to ſpeake to his owne heart, and not ſo much, as to caſt a favourable countenance on mine opinion.</p>
+               <p>The firſt place mentioned is <hi>Rom.</hi> 12.6. <hi>Having therefore gifts, &amp;c. whether Propheſie, let us propheſie according to the proportion of Faith.</hi>
+               </p>
+               <p>In replying to mine <hi>Antagoniſt,</hi> I ſhall preſent you firſt with a brief Expoſition of that Scripture, then with a ſhort (yet full) confutati<g ref="char:EOLhyphen"/>on of his Anſwer. For the firſt of theſe thus. From the beginning of the third to the ninth verſe of this Chapter, the Apoſtle gives exhor<g ref="char:EOLhyphen"/>tations concerning thoſe, who have gifts for, or Offices in the Church. In which we may in generall take notice of thoſe particulars, as, the manner, ground and matter of them. How he exhorts them you have laid downe in theſe words; <hi>I ſay to [or charge] every man, that is a<g ref="char:EOLhyphen"/>mongſt you;</hi> Wherein you may obſerve the extent and authority, that his exhortations carry with them. Now the ground on which hee builds his charge is expreſt in theſe words, <hi>By the Grace given to me,</hi> i. e.
+<pb n="24" facs="tcp:117637:15"/>
+By that ability and authority, which God through his Grace towards me hath beſtow'd on me, to inſtruct and exhort you. Now the matter of the exhortation is laid downe, more generally in the 3, 4, &amp; 5. verſes, and more particularly in the enſuing verſes.</p>
+               <p>In the generall he diſcovereth their duty with the reaſon of it. The duty is both negatively and affirmatively laid before them, thus; <hi>Not to thinke of himſelfe more highly than he ought to thinke, but to thinke ſoberly, ac<g ref="char:EOLhyphen"/>cording as God hath dealt to every man the meaſure of Faith.</hi> Which with the words foregoing is as much as if he had ſaid. I charge every one that amongſt you, by reaſon of that ability and authority beſtow'd on me for exhortation, not to deſire in regard of gifts, to ſeeme to have more gifts, or more of any gift than he hath: and in regard of Offi<g ref="char:EOLhyphen"/>ces, not to deſire to doe more in his Office or Miniſtry than what be<g ref="char:EOLhyphen"/>longs to it; nor to go beyond his own calling into anothers. Where<g ref="char:EOLhyphen"/>in the Apoſtle ſpecially condemnes two evils, firſt pride, whereby men deſire to ſeeme to have what they have not, and to be what they are not, lifting up themſelves and deſpiſing others as uſeleſſe in their gifts or Miniſtry: Secondly, diſcontentedneſſe, whereby men are not contented with Gods diſtribution towards them and diſpoſition of them in the body. In like manner he commends to them the contra<g ref="char:EOLhyphen"/>ry vertues.</p>
+               <p>Now I come to the reaſon of the exhortation, ſet downe in the 4. and 5. verſes, and drawne from the relation that is amongſt Saints. They (though many) being but one body in <hi>Chriſt Jeſus</hi> and ſo mem<g ref="char:EOLhyphen"/>bers one of another, have divers actions, and therefore ought not to deſire to doe the action of every member, but to bee contented doing that, for which God hath plac'd them in the body: And alſo ought to looke upon others gifts and places as appointed by God for, and tending to their profit and commodity. This Reaſon is alſo illuſtra<g ref="char:EOLhyphen"/>ted by a ſimilitude verſ. the 4. Now the Apoſtle goes on, and makes application in particular of the exhortation, he had in generall pro<g ref="char:EOLhyphen"/>pos'd to them. Firſt, he laies a ground to the thing intended, in theſe words; <hi>Having then gifts differing according to the Grace given to us;</hi> that is, ſeeing we have (being one body) divers actions, and ſo divers gifts for the performance of them, according to Gods gracious diſpenſati<g ref="char:EOLhyphen"/>on to us. Next he ſets the Exhortation on particular perſons, by di<g ref="char:EOLhyphen"/>viding the praxin or action of the ſeverall members of the body, into Propheſie and Miniſtery. I ſhall ſpeake only of the firſt, to wit,
+<pb n="25" facs="tcp:117637:15"/>
+Propheſie. <hi>Whether Propheſie</hi> [let us propheſie] <hi>according to the proportion of Faith.</hi> Inſtead of the words, <hi>let us propheſie,</hi> we are to underſtand the whole 3. verſ. and ſo the Apoſtles minde ſeemes to be this. I charge every one, that is amongſt you having the gift of Propheſie, (whereby hee's able to ſpeake to others edification, exhortation and comfort) to behave himſelf humbly and contentedly in the exerciſe of that gift, in the diſcovery of that meaſure of knowledge injoy'd by him. So much by way of Expoſition.</p>
+               <p>Now I ſhall (according to promiſe) fall upon the ſecond thing, the conſultation of mine <hi>Antagoniſt's</hi> Anſwer. He endeavours to make <hi>Rom.</hi> 12.6. to be an unfit foundation, to beare up the opinion of the lawfulneſſe of private mens preaching; and not only ſo, but alſo to ſpeake againſt it: And ſo it doth, if he miſtake not; for thus he ſaith, <hi>The truth is, this Scripture concludes againſt him.</hi> But what courſe doth he take to bring his purpoſe to paſſe? Truly thus hee thought to effect it, by putting on that Scripture an Expoſition of his owne, and by croſſing that, which I gave to it.</p>
+               <p>In replying to both, I ſhall not ſpend time to gather up or Anſwer all, that he there ſcatters; knowing how to imploy my time better: but ſhall only ſtrike at the body, which being downe, will be ſuffici<g ref="char:EOLhyphen"/>ent. His Expoſition you have page the ſecond, the ſumme whereof is this. <hi>The Apoſtle</hi> (ſaith he) <hi>requires; that they who have theſe gifts <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> and <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> (ibid.) Propheſie and Miniſtery, or</hi> (as he tranſlates it) <hi>Deaconſhip, exerciſe then in humility and fidelity.</hi> Where by Propheſie hee would underſtand the gifted callings both of the Paſtor and Teacher: and by Miniſtery, the Office of the Deacon only.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> Mine <hi>Antagoniſt</hi> by his Expoſition doth (as I ſuppoſe) not a little ſtraine that Scripture. That you may perceive my ſuppoſall not to be groundleſſe, I ſhall put that Expoſition in the ballance of the Sanctu<g ref="char:EOLhyphen"/>ary, placing Truth in the ſcale oppoſite to it, whereby you may eaſily diſcerne the lightneſſe of it. Although I cannot deny, but that the Apoſtle doth in this Chapter require thoſe to preach (as mine <hi>Anta<g ref="char:EOLhyphen"/>goniſt</hi> ſaith) who are by Office Paſtors and Teachers; and thoſe who have lying on them the Deacons Office, to behave themſelves in ſim<g ref="char:EOLhyphen"/>plicity: yet I cannot believe, that we are by the word Propheſie to un<g ref="char:EOLhyphen"/>derſtand both the Paſtors and Teachers Office; or that by the word Miniſtery is ſignified the Office of thoſe only, who are intruſted with the Churches money, for the ſupply of the poor's neceſſity, whom we commonly call Deacons.</p>
+               <p>
+                  <pb n="26" facs="tcp:117637:16"/>Firſt I cannot be perſwaded, that the word <hi>Propheſie</hi> doth in <hi>Rom.</hi> 12.6. ſignifie the Offices or gifted callings of Paſtors and Teachers. 1. Becauſe a contrary interpretation of that word <hi>Propheſie</hi> would agree with the Scripture. If I ſhould affirme, that <hi>Propheſie</hi> doth there ſignifie gifts or abilities, whereby men are fitted to be inſtruments for the World's and Churches commodity; I ſhould not ſtray from it's common acceptation in the Scripture, neither ſhould I croſſe <hi>Pauls</hi> in<g ref="char:EOLhyphen"/>tention in that Scripture. 2. Becauſe that interpretation, which makes the word <hi>Propheſie</hi> to denote the Offices of Paſtors and Teach<g ref="char:EOLhyphen"/>ers is contrary to the Scripture. 1. Becauſe 'tis contrary to common ſpeaking (from which Scripture is not wont to vary) by gifts to ex<g ref="char:EOLhyphen"/>preſſe Offices. 2. In that, <hi>Propheſie</hi> (in Scripture phraſe) is a gift, and commonly doth ſignifie abilities; 1 <hi>Cor.</hi> 14. But where the Offices of Paſtors and Teachers are expreſſed by it I yet finde not. It is ſo far from ſignifying the Offices of both, that I finde it to denote the Office of neither Paſtor nor Teacher. And it is ſo farre from denoting the Office of either, that it ſignifies the gift of neither. 1 <hi>Cor.</hi> 12.8. com<g ref="char:EOLhyphen"/>pared with the 12. of the ſame Chapter.</p>
+               <p>Secondly, Becauſe that Expoſition doth (if I miſtake not) repre<g ref="char:EOLhyphen"/>ſent <hi>Paul</hi> as one guilty of uſing tautology &amp; battology in his ſpeak<g ref="char:EOLhyphen"/>ing, which to affirme is not agreeing to Scripture.</p>
+               <p>Secondly, I cannot be induc'd to believe, that the word [<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>] <hi>Miniſtery</hi> doth in <hi>Rom.</hi> 12.7. hold forth the Office of Deacons only, whoſe worke is to make diſtribution to the poore of the Churches contribution for them. 1. Becauſe there is no neceſſity that it ſhould here be ſo expounded. If the word <hi>Miniſtery</hi> were in Scripture no where uſed but to expreſſe the Office of Deacons only, peradventure it would neceſſarily follow, that it ought in <hi>Rom.</hi> 12. to be ſo expoun<g ref="char:EOLhyphen"/>ded. But it doth in generall ſignifie any <hi>Miniſtery;</hi> and in particular that of Teaching Elders: as in <hi>Acts</hi> 6.4. and <hi>Eph.</hi> 4.12. Wherefore the Diſpenſers of the Word are called [<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>] <hi>Miniſters</hi> or Dea<g ref="char:EOLhyphen"/>cons. 1 <hi>Cor.</hi> 3.5. Therefore there is no neceſſity, that it muſt in <hi>Rom.</hi> 12. be taken for the Office of the Deacon only. 2. Becauſe there is a probability at leaſt, that it ought not here to be ſo interpreted. 1. Be<g ref="char:EOLhyphen"/>cauſe we have immediately a recitall of the ſeveral Officers or Mini<g ref="char:EOLhyphen"/>ſters of the Church, as an amplification or explication of the Apoſtles minde in that expreſſion, verſ. 7. 2. Becauſe in verſe the 8. (where the Deacon is ſpoken of) he is not called <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> a <hi>Miniſter,</hi>
+                  <pb n="27" facs="tcp:117637:16"/>
+but <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>(Qui diſtribuit)</hi> he that diſtributeth. Whereby <hi>Paul</hi> ſeemes (at leaſt) to give us notice, that by <hi>Miniſtery</hi> he did not intend the Office of the Deacon only. 3. Becauſe from that interpretation (if not many, yet) ſome abſurdities will be produced. As, 1. There<g ref="char:EOLhyphen"/>by <hi>Paul</hi> appears as uſing needleſſe repetitions in ſpeaking; which may (as I conceive) be eaſily perceiv'd, by comparing verſe 7. with the 8. 2. Thereby Ruling Elders (mentioned verſe 8.) are excluded as none of thoſe gifts (verſe 6.) given for the Churches good. The gifts are (ſaith mine <hi>Antagoniſt) Propheſie</hi> and <hi>Miniſtery, i. e.</hi> the Offices (as hee would have it) of Paſtors, Teachers and Deacons; and ſo Ruling El<g ref="char:EOLhyphen"/>ders are excluded. So much in anſwer to his expoſition. I ſhall now come to make a Reply to his Exceptions againſt mine Expoſition. He endeavours (page 3.) to make invalid mine Interpretation of that Scripture; and ſo to ſhoulder out my deduction from it. But how doth hee endeavour it? Surely by labouring to prove that the word Gifts is not to be taken for abilities only; but for Offices or gifted callings. But how doth he prove it? By two Reaſons, too weake to bolſter up his opinion. The firſt whereof is this. 1. <hi>Becauſe the word Gift</hi> (ſaith he) <hi>is uſed in Scripture (as I expound it) for the Office it ſelfe or gifted calling,</hi>
+                  <note place="margin">Mr. <hi>W.</hi>
+                  </note> 
+                  <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> To this reaſon in way of reply, I ſhall make this anſwer.</p>
+               <p n="1">1. That he hath not ſhewed, where in Scripture the word tranſla<g ref="char:EOLhyphen"/>lated Gifts, in <hi>Rom.</hi> 12.6. is uſed for Offices themſelves, or gifted callings. What meanes then thoſe Scriptures, <hi>Eph.</hi> 4.8. &amp; chap. 3.8. which he hath quoted? Surely they meane not, what hee meant in quoting of them; the firſt being in ſound not in ſubſtance for him, the other neither in ſound nor ſubſtance helping of him. Wherefore I ſhall only reply to the firſt of them, to wit, that in <hi>Eph.</hi> 4.8. where the word Gift is uſed, but notwithſtanding it makes nothing for his purpoſe. 1. Becauſe the word Gift is there not to be taken for Offi<g ref="char:EOLhyphen"/>ces or gifted callings, but for thoſe new Covenant-mercies, which God, by the hand of Chriſt, gives to al thoſe, to whom he gives him<g ref="char:EOLhyphen"/>ſelfe to be a God by way of Covenant. Which Mercies are mention<g ref="char:EOLhyphen"/>ed, <hi>Hebr.</hi> 8.10. <hi>For this is the Covenant, that I will make with the houſe of Iſrael after thoſe daies, ſaith the Lord, I will put my Lawes into their minde, and write them in their hearts:</hi> (or according to the Greeke) <hi>giving my Lawes into their minde, I will write them on their hearts, &amp;c. i. e.</hi> I will, by giving a powerfull light into their underſtandings, cauſe them to bee like
+<pb n="28" facs="tcp:117637:17"/>
+me and to give up themſelves to me, and ſo I will appeare to be their God, and they ſhall appeare to be my people. That the word <hi>Gifts</hi> there ought to be ſo expounded, and not as mine Antagoniſt would have it, is very cleare, both from the context, and alſo from the place, whence it was drawn.</p>
+               <p n="2">2. If it were granted, that the word <hi>Gifts</hi> in that place doth ſigni<g ref="char:EOLhyphen"/>fie <hi>Offices</hi> or gifted callings: Yet it doth not follow that in <hi>Rom.</hi> 8.6. it ought ſo to be taken: for although in our <hi>Engliſh</hi> Bibles the words doe not differ: yet in the Originall they are not the ſame. The word tranſlated <hi>Gifts</hi> in <hi>Rom.</hi> 12. is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>(gratiae)</hi> graces; but in <hi>Epheſ.</hi> 4. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>dona,</hi> gifts, many of the Clergy cry out againſt ſome of the Lay<g ref="char:EOLhyphen"/>ty, as unfit to open or apply the Scriptures, becauſe they are unac<g ref="char:EOLhyphen"/>quainted with the original languages. I ſuppoſe many of them talk of <hi>Originals</hi> more than uſe them: It ſeems mine Antagoniſt had the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> not <hi>Greek</hi> Teſtament in his hand, when he quoted this Scripture.</p>
+               <p>Secondly, although it were quoted, that the word (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,) <hi>Gifts</hi> is in Scripture ſomewhere uſed for gifted callings: yet it doth not follow, that in <hi>Rom.</hi> 12.6. it muſt be ſo underſtood, firſt, becauſe one and the ſame word may in divers places be of different ſignificati<g ref="char:EOLhyphen"/>ons: yea, in one and the ſame place it may ſignifie divers things.</p>
+               <p n="2">2. Becauſe that word in <hi>Rom.</hi> 12. tranſlated <hi>Gifts,</hi> is often in the Scripture uſed for abilities only, as in <hi>Rom.</hi> 1.11. 1 <hi>Cor.</hi> 12.4. and ſo his reaſon will make rather againſt him, than for him. For thus one might argue from his Reaſon. If the word <hi>Gifts</hi> be ſomewhere in Scripture uſed for abilities only; then it may be ſo taken in <hi>Rom.</hi> 12. But in Scripture the word ſo ſignifies: Therefore in <hi>Rom.</hi> 12. it may be ſo expounded.</p>
+               <p>So much for his firſt Reaſon. Now to the ſecond, which is drawn from the abſurdities that will follow; if we take the word <hi>Gifts</hi> to ſignify their abilities only. That I may the better try its ſtrength, I ſhall draw it up into this one Syllogiſme.</p>
+               <p>That expoſition of Scripture is not to be followed, from which ab<g ref="char:EOLhyphen"/>ſurdities do naturally flow. But if the word <hi>Gifts</hi> in <hi>Rom.</hi> 12.6. be expounded abilities only, thence abſurdities will follow naturally: Therefore, <hi>&amp;c.</hi>
+               </p>
+               <p>The firſt I ſhall grant to be an orthodox truth; but let us ſee whi<g ref="char:EOLhyphen"/>ther we may lawfully paſſe the ſame ſentence upon the Aſſumption. Falſe accuſing both of opinions and perſons is a crime too common.
+<pb n="29" facs="tcp:117637:17"/>
+Many things, which are not abſurd, are branded for abſurdities. Ma<g ref="char:EOLhyphen"/>ny opinions and practiſes are accuſed with the bringing forth of monſtrous births of abſurdities, which are as free from them, as <hi>Chriſt</hi> was from iniquities. But doth not the expounding of the word <hi>Gifts,</hi> in <hi>Rom.</hi> 12. for abilities, produce and bring forth many abſurdities? Surely there had been no need to wander farre for reſolution in this particular; if the Author of the Reaſon had been as good in proving as bold in affirming: For abſurdities (ſaith he) will follow ſuch an Expoſition, which are in number two, according to his reckoning. The firſt is this following.</p>
+               <p>
+                  <hi>We may then proceed from abilities to the Exerciſe of other callings,</hi>
+                  <note place="margin">G. W. Pag. <hi>3.</hi>
+                  </note> 
+                  <hi>for if a<g ref="char:EOLhyphen"/>bility to preach be ſufficient to Authorize one to Preach without any more adoe, then alſo ability to Baptize, and to Rule, and Governe, is ſufficient to Authorize any to Baptize, and to take on them to Rule, Governe and Judge, as Rulers, Magiſtrates and Judges doe, &amp;c.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> Three things are here affirmed, which are clearly expreſſed, or ne<g ref="char:EOLhyphen"/>ceſſarily implyed. I ſhall here declare them, and declare ſomething in Anſwer to each of them.</p>
+               <p>Firſt, He affirmes, that it is unlawfull to proceed from abilities to the exerciſe of callings.</p>
+               <p>Secondly, That he that Preacheth, doth by Preaching enter into the calling of him, who by Office is a preacher.</p>
+               <p>Thirdly, That if it be lawfull, from abilities (without any more adoe) to proceed to the Miniſters calling: then 'tis lawfull, from abilities to proceed to other callings, as that of the Magiſtrate to Rule, <hi>&amp;c.</hi>
+               </p>
+               <p>To the Firſt of theſe I ſhall thus Anſwer.</p>
+               <p>Firſt, I dare not allow that ſpeech to bee true without exception. For there are ſome callings as the Husband-mans calling with ſome other, into which a man, having ability, may lawfully enter, and in them exerciſe himſelfe from abilities only.</p>
+               <p>Secondly, That if it be ſpoken with limitation, it may be receiv'd for a truth without contradiction. If it bee reſtrained to callings in the Church, then I affirme; that it is unlawfull for any man to pro<g ref="char:EOLhyphen"/>ceed into the exerciſe of callings meerly from abilities: becauſe the Lord in his Word requires, that <hi>unto qualifications for Offices, Election and Ordination be annexed, before the exerciſe of them</hi> (in way of Office) <hi>be un<g ref="char:EOLhyphen"/>dertaken.</hi>
+               </p>
+               <p>
+                  <pb n="30" facs="tcp:117637:18"/>Now to the Second of his affirmations, which is this, <hi>That hee that Preacheth doth enter into the calling of him, who by Office is a Preacher.</hi>
+               </p>
+               <p>This affirmation is falſe and abſurd, which may appeare by theſe two Reaſons.</p>
+               <p>Firſt, Becauſe a man may doe, in ſome way, ſome actions that be<g ref="char:EOLhyphen"/>long to anothers calling, and yet not intrench upon, or enter into his calling. Praiſing of God (under the Law) upon Muſicall Inſtru<g ref="char:EOLhyphen"/>ments was the calling of ſome of the <hi>Levites;</hi> Now did all (not being <hi>Levites</hi>) intrench upon their calling, who did (in the preſence of others) praiſe God upon Muſicall Inſtruments? Prayer is a worke that belongs to a Miniſters calling, <hi>Acts</hi> 6.4. Now doe all thoſe, that pray (when a company is met together) as their mouth unto God, enter into the Miniſters calling? Is it not a worke of the Magiſtrate to judge betwixt perſons in matters of civill difference? Notwith<g ref="char:EOLhyphen"/>ſtanding the Apoſtle bids the <hi>Corinthians</hi> to ſet thoſe to judge, who were not judges by Office. 1 <hi>Cor.</hi> 6. But I hope the Apoſtle would not have them to intrench on the Magiſtrates calling. Preaching of the Goſpel is an Apoſtles worke, <hi>Rom.</hi> 1.1. Doe all then, that take upon them to be Preachers, enter into the Apoſtles Office? <hi>&amp;c.</hi> Every cal<g ref="char:EOLhyphen"/>ling hath not all it's workes peculiar to it ſelfe.</p>
+               <p>Secondly, Becauſe Preaching is not a worke peculiar to a Miniſter; that is, 'tis not a worke, which none may lawfully doe, ſave thoſe who are in Office for to doe it. I ſhall here propoſe ſome queſtions only; The firſt part of this Treatiſe being a proof of this Reaſon, to which I ſhall refer thee (Chriſtian Reader) for thy further ſatisfacti<g ref="char:EOLhyphen"/>on.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>1</label> Where in the Scripture hath God called Church Officers to preach, and reſtrained others from the work?</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>2</label> Whether there be not (at leaſt) a probability, that preaching is not peculiar to a Miniſter; ſeeing that many both godly and learned have affirm'd it. Amongſt many others here, what one (and in a Preface to a Sermon, preached before the Parliament) ſaid. <hi>The peculiar workes</hi> (ſaid he) <hi>of the Miniſtery, were the adminiſtration of the Sacraments and Diſcipline; but as for preaching it is a more common worke, &amp;c.</hi> Mr. <hi>John Ellis</hi> junior. <hi>Epiſt. The ſole path to a ſound peace.</hi>
+               </p>
+               <p>The Elders of the Churches of New-<hi>England</hi> tels us. That the Act of praying and preaching is improperly called a Miniſteriall worke, <hi>&amp;c. Church-Government and Church-Covenant diſcuſſed. pag.</hi> 78.76. I re<g ref="char:EOLhyphen"/>member
+<pb n="31" facs="tcp:117637:18"/>
+a ſaying, that another hath to this purpoſe. <hi>The Papiſts</hi> (ſaith he) <hi>and ſome ignorant Proteſtants, would have no word of God ſounded out by any, but by their ſelected Clergie.</hi>
+               </p>
+               <p>Whither they, who doe affirme preaching to be a worke peculiar to <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>3</label> Church-Officers,<note place="margin">2 <hi>Chron.</hi> 19.20.</note> doe not ſin againſt the Generation of the Righte<g ref="char:EOLhyphen"/>ous? Doe they not condemne <hi>Jehoſaphat</hi> (and others) who taught and exhorted the People (publiquely) to believe God; he being nei<g ref="char:EOLhyphen"/>ther Prieſt nor Prophet. If preaching be a worke peculiar to the Mi<g ref="char:EOLhyphen"/>niſtery; who will juſtifie the Martyrs? Nay, who will not blame them rather? May we not ſay to them, <hi>O Martyres culpandi eſtis,</hi> ye are blame-worthy, for intrenching on the Miniſters calling, in that you (being not Church-Officers) did preach the Word a Company being met together; for did you not Expound and apply the Scriptures, informe and exhort the people? Why ſuffered ye ſo many things in vaine? Why was the enemy conſtrained to cut your Tongues, to gagge and with balls of Iron to ſtop your mouthes, to hinder you from preaching; ſeeing God did not command you to it?</p>
+               <p>How may the Saints make uſe of their Gifts, knowledge and Ut<g ref="char:EOLhyphen"/>terance <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>4</label> for the building up of the Church and yet not preach?<note place="margin">
+                     <hi>Hebr.</hi> 4.12. <hi>c.</hi> 10.25.</note> Or how may they be ſaid to be Teachers of others; and to exhort one a<g ref="char:EOLhyphen"/>nother, when they meet together, and yet not preach? To this Queſtion, mine <hi>Antagoniſt</hi> hath framed an anſwer, (<hi>pag.</hi> 6.) but how far from the purpoſe, let us a little conſider. He anſwers to a ſaying of mine, which was this, <hi>It is the duty of a Servant of God to uſe thoſe gifts for the edifying of the Church, which God hath given him for that end.</hi> Which he grants to be true, but not to my purpoſe: but let us ſee how men may without preaching, uſe their gifts of knowledge and utterance. He will informe you (<hi>pag.</hi> 7.) that there are otherwaies of uſing gifts for the edifying of the Church beſides preaching. He tels us, that Fa<g ref="char:EOLhyphen"/>mily governors and Parents muſt edifie their Children and Family, and God gives them Gifts in Prayer and knowledge, and for that purpoſe. But I pray, what's this to the purpoſe? The ſpeech was not of Families, but of Churches. But what if there bee none in the Fa<g ref="char:EOLhyphen"/>mily ſit to be edified, being not begotten; how then may hee uſe his gifts of edifying? He further tels us of another way, more likely to be the way, thus. <hi>And Chriſtians</hi> (ſaith he) <hi>muſt exhort, and comfort,</hi>
+                  <note place="margin">G. W. Anſw. <hi>4.</hi>
+                  </note> 
+                  <hi>and <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>difie one another in Chriſtian conference and diſcourſe, &amp;c.</hi> This is true, that the Saints may and ought to doe ſo. But to me 'tis ſtrange, and
+<pb n="32" facs="tcp:117637:19"/>
+no leſſe than a riddle, to affirme it lawfull for private perſons to do ſo, and yet unlawfull for them to preach; as if there were ſuch a vaſt difference between it and preaching. Tis my deſire to plow with the Authors heifer, that I may underſtand that his a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nigmatical affirma<g ref="char:EOLhyphen"/>tion What may they exhort, comfort and edify one another, when they are met together, and yet not preach? Oh ſtrange expreſſion!</p>
+               <p>Now to the third thing affirmed by mine Antagoniſt, which is this.</p>
+               <p>
+                  <note place="margin">Mr. <hi>W.</hi>
+                  </note>
+                  <hi>That if it be lawfull from abilities to proceed to the Miniſters calling, then 'tis lawfull from abilities to proceed to other mens callings; as the Magi<g ref="char:EOLhyphen"/>ſtrate, &amp;c.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> Firſt, This is a ſtrange kinde of reaſoning; if 'tis lawful from abi<g ref="char:EOLhyphen"/>lities to proceed to one calling, then 'tis lawfull from abilities to proceed to any calling. What rule is there delivered by either <hi>Ariſtotle, Ramus,</hi> or any other in their Logick, to iuſtifie this kinde of arguing generals from particulars not of the ſame kinde? What Reaſon may there be found to plead for that Aſſertion? Let him, that can ſhew.</p>
+               <p>Secondly, If it were granted, 'twere not for his purpoſe: for I have proved, that he, that preacheth doth not by preaching enter into the Miniſters calling. Thus the Anſwer to the firſt abſurdity; let us now caſt our eies on the ſecond.</p>
+               <p>
+                  <note place="margin">G. W.</note>
+                  <hi>If all that can may and muſt preach, the Miniſters Office were needleſſe. What need of Authority by Office to doe that, which every one may and muſt doe with<g ref="char:EOLhyphen"/>out, it, &amp;c.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> Firſt, That ſuch an abſurdity will follow, ſo ſaith mine Antago<g ref="char:EOLhyphen"/>niſt. But doth not the Scripture ſay ſo alſo? Surely from his writ<g ref="char:EOLhyphen"/>ing I cannot informe you; for not ſo much as one <hi>Sic Dominus dixit</hi> may be found in it. Wherefore if I ſhould but barely deny, what hee barely affirmes; why might it not be ſufficient? Seeing that my Nay hath as much authority as his Yea, in matters of this Nature.</p>
+               <p>
+                  <note place="margin">Eph. 4.11.</note>Secondly, 'Tis falſe, elſe <hi>Paul</hi> will be found a man making oppoſi<g ref="char:EOLhyphen"/>tion againſt Chriſts Inſtitutions. Hath not Chriſt ordained Paſtors and Teachers,<note place="margin">1 Cor. 14.</note> men in Office, for the Churches edification? And did not <hi>Paul</hi> allow thoſe to propheſie in the Church of <hi>Corinth,</hi> who had the Gift, but were not by Office Paſtors or Teachers? And ſo did not he approve of that, which made the Office of Miniſters uſeleſſe? For they publikely preach't in the Church for it's edification. But if the preaching of men, who are neither Paſtors nor Teachers doe now
+<pb n="33" facs="tcp:117637:19"/>
+make uſeleſſe the Miniſters calling; then it could at that time have no better effects; And ſo <hi>Paul</hi> muſt needs be an enemy to Chriſts or<g ref="char:EOLhyphen"/>dinary Miniſtery.</p>
+               <p>Thirdly, Private mens preaching is ſo far from making uſeleſſe the Miniſters calling; that it doth not a little help it.<note place="margin">Heb. 5.11.</note> For hereby their mouthes are opened to ſpeake wiſdome (the deep things of Chriſt Jeſus) to the people. The truths of God taught by the Officers are the more confirmed, when others alſo beare witneſſe to them. Alſo the truths taught by the Officers are the better preſerved; for by the uſe of private mens gifts they are often occaſionally mentioned. The Officers are moreover comforted and incouraged; by beholding Gods bleſſing upon their Miniſtery, in that ſome grow ſo much, that they grow up to bee Teachers of others. The truth of this thoſe know, who are Officers in Congregationall Churches, where there are ſuch private preachers. Thus much in anſwer to the Aſſumption, which hath denyed liberty to the concluſion (therefore the Expoſi<g ref="char:EOLhyphen"/>tion of the word Gifts in <hi>Rom.</hi> 12. for abilities only is not to be fol<g ref="char:EOLhyphen"/>lowed) to paſſe as an Orthodox Truth.</p>
+               <p>Now I ſhall lead you on to the Second Scripture, which as mine An<g ref="char:EOLhyphen"/>tagoniſt conceives, will not plead for private mens preaching.</p>
+               <p>The place afore mentioned is <hi>Acts</hi> 8.1. and 4.</p>
+               <p>
+                  <hi>And at that time there was a great perſecution againſt the Church, which was at</hi> Jeruſalem,<note place="margin">Verſ. 1.</note> 
+                  <hi>and they were all ſcattered abroad throughout the Regions of</hi> Ju<g ref="char:EOLhyphen"/>dea <hi>and</hi> Samaria, <hi>except the Apoſtles.</hi>
+               </p>
+               <p>
+                  <hi>Therefore they that were ſcattered abroad went everywhere preaching the Word.</hi>
+                  <note place="margin">Verſ. 4.</note>
+               </p>
+               <p>I ſhall here in ſpeaking obſerve this method.</p>
+               <p>Firſt, I ſhall diſcover my deduction from it.</p>
+               <p>Secondly, I ſhall anſwer to the reply of mine Antagoniſt.</p>
+               <p>For the Firſt thus. The thing thence concluded was, <hi>that private perſons (having abilities) may lawfully when a company is met together) preach the Word;</hi> in that thoſe there mentioned did ſo preach, they being (for the generality) private perſons or no Church-Officers: ſith their practice being approved may be to us for a paterne. That they were (for the greateſt part) private perſons is the thing in Queſtion. That they were, ſo is mine opinion; wherein I am neither alone, nor without reaſon.</p>
+               <p>I am not alone, for others thinke ſo with me. The Elders of
+<pb n="34" facs="tcp:117637:20"/>
+the Churches of New-<hi>England</hi> were of the ſame minde, this being their ſaying: <hi>They that were ſcattered abroad by reaſon of the perſecution, that aroſe about</hi> Ste<g ref="char:EOLhyphen"/>ven, <hi>were not Church-Officers, at leaſt all of them (for the Apoſtles who were their <gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>e, if not their only preaching Officers, were not ſcattered abroad but re<g ref="char:EOLhyphen"/>mained ſtill at</hi> Jeruſalem, <hi>c.</hi> 8. <hi>v.</hi> 1.) <hi>and yet th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe men did ſo preach the word of the Lord Jeſus, &amp;c. ſo</hi> Dr. Ames, <hi>with divers others.</hi>
+               </p>
+               <p>Now the reaſons, that make me ſo to believe (amongſt other) may be theſe fol<g ref="char:EOLhyphen"/>lowing.</p>
+               <p>Firſt, Becauſe it plainely tells us, that the generality of the Church were ſcatter<g ref="char:EOLhyphen"/>ed, v. 1. Now the Scripture will not informe us, that there were (at that time) any Teaching Officers, ſave the Apoſtles: and Reaſon will teach us, that the greateſt part could not be Officers. Which ſcattered Chriſtians (without any exception) are ſaid Anſ. 4. to preach the word. Secondly, Becauſe <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in ſuch an Expoſition, no Scrip<g ref="char:EOLhyphen"/>ture will be croſſed; neither will any bad conſequence be thence produced, <hi>&amp;c.</hi>
+               </p>
+               <p>I ſhall draw you now forwards to conſider mine Antagoniſts anſwer; wherein two things eſpecially are endeavour'd by him: Firſt, that they who preached were not private perſons; Secondly, that if they were ſuch, yet we might not gather thence a Warrant for the preaching of private perſons now. To his Reply I ſhall Anſwer; Firſt more generally; Secondly in a more particular manner. For the generall thus.</p>
+               <p>Firſt, There is ſcarce a Scripture, which lyes not under divers Interpretations. And there may appear a probability of Truth in croſſe Expoſitions. Whence wee gather the needfulneſſe of the Spirit for our direction. There is not a little difference be<g ref="char:EOLhyphen"/>twixt my ſelfe and mine Antagoniſt about this Scripture. That you may ſee who is in the truth, learne to deny your ſelves, and ſeeke the Spirit to be your teacher.</p>
+               <p>Secondly, Mine Antagoniſt hath laid down in his Anſwer nothing as certaine. By which he endeavours, that this Scripture may be rather wholly uſeleſſe, than uſefull for us.</p>
+               <p>Thirdly, Thoſe whom we commonly call Seekers may take up mine Antagoniſts Anſwer, as uſefull for them, and againſt him and his brethren. Were I a profeſſed Seeker I ſhould ſhew my skill, in arguing againſt mine Antagoniſt (he being now a Miniſter) with his owne arguments. Now to a more particular Anſwer.</p>
+               <p>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne Antagoniſt hath propoſed three conſideration to convince his Reader, that thoſe ſcattered (but preaching) Chriſtians were not private perſons.</p>
+               <p>Mine oppoſers firſt oppoſing conſideration you have (pag. 10.) at large expreſſed: The ſumme is this.</p>
+               <p>
+                  <note place="margin">Mr. <hi>W.</hi>
+                  </note>It is probable if not certaine, that the Apoſtles gave them Authority to preach, and ſo they were not (as Lay men with u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> private perſons.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> What he by Authority meanes, I know not. If he would have us by his words un<g ref="char:EOLhyphen"/>derſtand, that the Apoſtles did ſhew to the ſcattered Chriſtians before their departure that it was not only lawfull but alſo needfull for them (as they went) to preach the Goſpel, that the Kingdome of Jeſus Chriſt might be promoted and inlarged? I anſwer.</p>
+               <p>Firſt, It is (I doe not ſay, muſt be) ſuppoſed; that the Apoſtles gave to the ſcat<g ref="char:EOLhyphen"/>tered Chriſtians ſuch direction. Sith the Scripture doth not ſo much as hint at it, wee are not bound to believe it. From meerly ſuppoſed ſuppoſitions, we cannot draw for faith ſound concluſions.</p>
+               <p>Secondly, If it were allowed, yet the preaching of private men now, might not thence be denyed. For the Apoſtle were in thoſe daies to believers, inſtead of New Teſtament Scriptures. And therefore if it may bee proved from their writings (as I
+<pb n="35" facs="tcp:117637:20"/>
+have in the Firſt Part of this Treatiſe) that private men injoying ability have Autho<g ref="char:EOLhyphen"/>rity to preach the Goſpel, it is all one, as if they had Authority from their perſons immediately. The ſecond conſideration, which mine Antagoniſt gives, you have page 10. and 11. The ſumme whereof is this.</p>
+               <p>That if thoſe ſcattered Chriſtians had not Authority from the Apoſtles:<note place="margin">G. W.</note> yet they might be put out of the condition of private perſons by immediate Revelation.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> The ſame Anſwer will ſerve for this as for the former, for Revelation was to them inſtead of the Apoſtles; and ſo inſtead of written Scriptures. Wherefore if the Saints now by Revelation from the Scripture doe underſtand, that they may from ability proceed to preach the Goſpel, 'tis all one as if they did ſo underſtand by Revelation without the Scripture.</p>
+               <p>The third conſideration appears page 12. which is in briefe this.</p>
+               <p>All that were ſcattered were not private perſons.<note place="margin">G. W.</note> Wherefore 'tis probable that none did preach, but thoſe that were publick: for if thoſe that are private may preach, then they may Baptize alſo.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> I ſhall not affirme, that all, who were ſcattered, were private perſons; for wee reade, that <hi>Philip</hi> the Deacon was amongſt them: but that (as they call them) Teaching Church-Officers were with them cannot be proved; for the Apoſtles re<g ref="char:EOLhyphen"/>main'd at <hi>Jeruſalem.</hi> There is therefore no need to prove, that others beſides pub<g ref="char:EOLhyphen"/>licke perſons did preach. When they did preach, they were (in a ſence) publicke enough, but in another ſence not publick. The Scripture tels us, that they, who were ſcattered went about preaching, without making the leaſt exception. But if they may preach, they may Baptize alſo; ſaith mine Antagoniſt. He hath ſaid it indeed, and ſaid it, and double ſaid it; as if it were of no ſmall force to convince us of the unlaw<g ref="char:EOLhyphen"/>fulneſſe of private mens preaching. Who may Baptize (as well as who may bee Bap<g ref="char:EOLhyphen"/>tiz'd) is a thing in queſtion. What my judgement therein is I am not bound here to diſcover. But let me a little reaſon with mine Antagoniſt. Sir, by what good conſe<g ref="char:EOLhyphen"/>quence will it follow, that if private perſons may preach, they may Baptize alſo? What is there no worke peculiar to Church-Officers, if preaching be not? If a private per<g ref="char:EOLhyphen"/>ſon may judge between others in matters of civill difference,<note place="margin">1 <hi>Cor.</hi> 6.</note> which is a Magiſtrates Worke, then a private perſon may lay fines and taxes on the people, which is another Worke belonging to the Magiſtrate. Is this not as good conſequence, as that of mine Antagoniſt? But we ſay, that Officers have ſome worke peculiar to them; other worke common to them with others. And is not this as good conſequenciall arguing; If private perſons may pray, then they may Baptize alſo; ſeeing prayer is a work that belongs to the Miniſters Office. Wherefore (by mine Antagoniſts favour) his conſe<g ref="char:EOLhyphen"/>quence (if 'twill follow) will not be dangerous, unleſſe he can prove, that Baptizing is peculiar to Church Officers<g ref="char:punc">▪</g> nor conſequentiall; unleſſe he can prove, that preach<g ref="char:EOLhyphen"/>ing is peculiar to them in Office, So much for the conſiderations.<note place="margin">page 14. Mr. <hi>W.</hi>
+                  </note>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> Now mine Antagoniſt conceives further; that if it were ſuppoſed, that they, who being ſcattered did preach, were private perſons, yet that will not juſtifie our lay mens preaching: becauſe it cannot he prov'd, that they preach'd at <hi>Jeruſalem;</hi> but amongſt a people, who had never the ſound of the Goſpel amongſt them: but our lay preachers, teach where a true Miniſtery is, or may be had, <hi>&amp;c.</hi>
+               </p>
+               <p>Mine Antagoniſt hath here much miſtaken the queſtion, for the queſtion to which the Miniſter made an anſwer, to which (through intreaty) I made a reply, was; Whi<g ref="char:EOLhyphen"/>ther lay perſons a company being met together may preach the Word?</p>
+               <p n="2">2. He hath alſo groſly miſtaken in his expreſſions. Firſt, In telling us; that they ex<g ref="char:EOLhyphen"/>erciſed themſelves in preaching, only where the ſound of Chriſt was not heard; for
+<pb n="36" facs="tcp:117637:21"/>
+the Scripture tels us, That they were ſcattered abroad throughout the regions of Ju<g ref="char:EOLhyphen"/>dea and Samaria, which were places wherein they preached. <hi>Act.</hi> 8. But was not Chriſt preached in Judea? Reade the Goſpel and they will informe you. 2. In that he makes ſuch a difference betwixt Judea, Samaria, and ſome places amongſt us, in reſpect of Miniſtery. I am ſure ſome places amongſt us have no Miniſters, and ſome other have falſe Miniſters. How Judea could be (for Miniſters) in a worſe caſe I know not.</p>
+               <p n="3">3. He reaſons from what he laid down, but without reaſon. For their preaching proves the lawfulneſſe of private mens preaching, a company being met together.</p>
+               <p>So much for the ſecond Scripture.</p>
+               <p>The fourth and laſt Scripture is the 1 <hi>Cor.</hi> 14. This Chapter is full of difficulty, and exceeding hard to be underſtood. Men vary much in the expoſitions, they give of it. I ſhall therefore (at this time) onely lay down one argument, to prove the lawful<g ref="char:EOLhyphen"/>neſſe of private mens preaching, from that Chapter.</p>
+               <p>They who have the gifts of propheſie, may propheſie.</p>
+               <p>But ſome private perſons may now have the gifts of propheſie.</p>
+               <p>Therefore ſome private perſons may now propheſie.</p>
+               <p>The Firſt (I ſuppoſe) none will deny. The Second (that private perſons may now have the gift of propheſie) is to be proved, which being confirmed, the concluſion (that therefore they may propheſie) will of neceſſity follow. That ſome private per<g ref="char:EOLhyphen"/>ſons may now have the gift of propheſie doth appear, both from the matter, promiſe and end of it. Firſt it is manifeſt from the matter of it. Knowledge and utterance, whereby men are inabled to ſpeak to others edification, exhortation and comfort, <hi>i.e.</hi> matter whereby others may be edified, exhorted and comforted, is the matter of pro<g ref="char:EOLhyphen"/>pheſie, 1 <hi>Cor.</hi> 14.3. Now 'tis apparent by experience, that ſome private perſons are a<g ref="char:EOLhyphen"/>ble to ſpeake to others for their edification, &amp;c. Therefore ſome private perſons now have the gift of propheſie. They who enjoyed the gift in the primitive times were called Prophets or ſpirituall, that is, not carnall, not babes in Chriſt. There is ſome difference between thoſe,<note place="margin">1 <hi>Cor.</hi> 14.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>7. 1 <hi>Cor.</hi> 3.1.</note> who now enjoy the gift; and ſome of thoſe, who in the pri<g ref="char:EOLhyphen"/>mitive times did enjoy it; in regard of the manner of receiving it, their meaſure of enjoying it, and in reſpect of the enjoyment of ſome extraordinary and temporary gifts with it.</p>
+               <p>Secondly, It appeares from the promiſe of it, <hi>Joel</hi> 2.28. <hi>Your ſons and your daugh<g ref="char:EOLhyphen"/>ters ſhall propheſie.</hi> Which propheſie was in the Apoſtles times in part fulfilled. <hi>Act.</hi> 2. The greateſt part is yet behinde, in reſpect of the number of perſons enjoying it, though not in reſpect of the meaſure enjoyed by particular perſons; which propheſie will be gloriouſly manifeſted when the fulneſſe of the Gentiles be come in, and the Jewes called; now the ſpirit is powred out, but (as it were) by drops: then, 'twill be powred out as a mighty flood.</p>
+               <p n="3">3. It ſhines forth alſo from the end of it, which is the Churches edification, 1 <hi>Cor.</hi> 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.22. What was needfull for the Churches edification in the primitive times is now needfull: <hi>Eph.</hi> 4. Apoſtles were then needfull, ſo now, whom we enjoy in their writings, but how do we enjoy Prophets even Evangeliſts, unleſs in the uſe of the gifts of men fitted to ſpeake to the Churches edification? Thus in haſt I reſt till I enjoy more light and leaſure. Farewell.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>Courtious Reader, in page <hi>25.</hi> line <hi>10.</hi> for <hi>conſultation,</hi> Reade <hi>conſutation.</hi> in p. <hi>28.</hi> line <hi>16.</hi> for <hi>quoted,</hi> reade <hi>granted.</hi> and line <hi>30.</hi> for <hi>their,</hi> reade <hi>there.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
